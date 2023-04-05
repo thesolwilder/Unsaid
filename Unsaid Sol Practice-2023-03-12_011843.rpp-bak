@@ -1,0 +1,5156 @@
+<REAPER_PROJECT 0.1 "6.75/win64" 1678598323
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 304
+  ZOOM 2.33883862691329 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 296
+  SELECTION2 0 296
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.80928784384254 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 1
+  <MASTERPLAYSPEEDENV
+    EGUID {A09B423E-2242-420E-A743-3C2B5A8A271B}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {4FEDDE6C-79BC-4B78-BAA6-DA75D95519AE}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {5156366D-2089-46DB-BD50-072A20EFB64A}
+    NAME "Unsaid Sol Practice 20230216"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5156366D-2089-46DB-BD50-072A20EFB64A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3i: Dexed (Digital Suburban)" Dexed.vst3 0 "" 475117838{ABCDEF019182FAEB4447534244657864} ""
+        DrlRHO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAD7GgAAAQAAAP//EAA=
+        6xoAAAEAAABWQzIhphoAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+IDxkZXhlZFN0YXRlIGN1dG9mZj0iMS4wIiByZXNvPSIwLjAiIGdhaW49
+        IjEuMCIgY3VycmVudFByb2dyYW09IjEiIG1vbm9Nb2RlPSIwIiBlbmdpbmVUeXBlPSIxIiBtYXN0ZXJUdW5lPSIwIiBvcFN3aXRjaD0iMTExMTExIiB0cmFuc3Bvc2Ux
+        MkFzU2NhbGU9IjEiIG1wZUVuYWJsZWQ9IjAiIG1wZVBpdGNoQmVuZFJhbmdlPSIyNCIgd2hlZWxNb2Q9IjAgMCAwIDAiIGZvb3RNb2Q9IjAgMCAwIDAiIGJyZWF0aE1v
+        ZD0iMCAwIDAgMCIgYWZ0ZXJ0b3VjaE1vZD0iMCAwIDAgMCI+PGRleGVkQmxvYiBiYXNlNjQ6c3lzZXg9IjQxMDQudk9ELkkuQi5HLlRLaTB4WC4uLi4uLi4uMy52WC4u
+        ZkIuRXlYdExGLi4uLi4uLi5OLkxGQS56LlB3TGxLaUEuLi4uLi4uZkMuaUEuLk8uVExpd3hYLi4uLi4uLi4zLnZYRC5QRi5FeVh4TEYuLi4uLi4uLk4uTEYuLlhESndM
+        MVhiQS4uLi4uLi5mQy5pSS4uaU0xWGlJaUx4SHlHT0xCLi4uUExYTFVYNEFSUG1FVlp0NEJSTG8uSGlVRVQuREMuLi4uTkhQRUUudlRSSnZ3WGJvRS54Li4uLmZBQVpR
+        Li53bmpCZkhsWGhBUEo4LmpCSGd2UUQudk1PbnZLaXdFVy5meVYuTC5iRExGQS5iQ0hmelFXZG9FLkRBdlhCLi5BWFFQLjJmaUJ1TGxYLkF2SWlBdkNYZ2ZYRERmWGhJ
+        bFgwRGlMeDN2Q2dMQkQuLkFDTEVUVVJrVFFmLkJIZkxsSzFUMFhmTUYuNC4uLi5uQ0FpVXZSaTRoSGFNMVdpQS4uLi4uLnlBZlNHRENWSVVTV2kwRC4uLi4uLi5mYmJy
+        RURDZkVON3owWE1BLi4uLi4uLkxFRU9JLkdYZ0NPY01WUy4uLi4uLi4uaWZ3VEJIbFNmdkJPaVVFLi4uLi4uLmZKLkxGLkdYVVdpTUYuei5QV1E3dkguLi4udy5mUGtF
+        RmNzVUZaeFFsYmlZUkZvTEZSSEF2SS5EdkN2UWZURC52WG1qUUhpY0RQLmJCLi43LmIuUENBLkxGU2k4eFhYQUYubS4uLk8uRy5iSS4uaWNSRmdMMVEuQXZJLkR2QzNQ
+        dlhELnZYbGpBSWlnRFIuYkIuLjcuTi4zREIuTEZTaTh4WFhBRi5tLi4uT2ZDLi5ILi5UODBXN0hpTHhIeUdOVEIuLi4uUFguRVJBSTBTSEFCSGYueFh2RC5GZDhELi52
+        aU0uRHZRTExsRy43MEhIdndYRkEuLnoudkhDdkVET1kuLmVBUkZnTGxRLi4uLi4uLi5hYndYQi5QVXhIZkJpWUQuLm5DLmsudkIuN2pELnJqS1B2dlhGQS4uemYuLkNy
+        QkNPUS4uSjR3RmVMbFEuLi5PLi4uLmljd1hCLmZXQzhFT3hIaUx4SGZDaERCLi5qQUNDZ2xidTBWWGZUQ0hiVWtPWHp4WGlBLi5mLi4uQ1B3LkxvUFRUb2lEakxWVy4u
+        LkguSEEuNnZRVkQudlVzclFLaU1GLi4ueFguTGYuUExsLi5Ua09YM3hYaUEuLmYuLi5Ddi4uR29QLlZvaURqTFZXLi4uSC5IQS5DUFFWREQuVnNyUUtpTUYuLi54WC5M
+        Zi5QTGwuQS4uLi4uZkx4SGlMQ2ZQRi5uLi5Idi5TZ1lXWnpFbGJmLkJXLi4uRGVMMVhpQS4uLlAuLlBNLlRCLmZRLi5RRWFNMVguLi4uLi4uVC4zai4uM0IuT1hCV2lN
+        Ri4uLi4uLi5FLmlJLi4uLi4uZkwxWGlBLi4uLi4ubkguVC5MbEwuamZEZk0xWC5mQS5FLi5OLkhFLmk0Qi5iWFJXaU1GLi4uLi4uLi4uaUVQQWlNMVhpSWlMeEh5Lkti
+        QS5PLlBETExFYXVNMGNyQXhLdXZrU2VZekJpQTFSLmJDLmEuUGIuN0NBLmZoR1lQeFhab0UueS4uLi5Edy5pSS4uOTdrUUxMRlhPQS5MLjNBLlkuLlFELi5KZGpBSWlv
+        a1YuTEMuLi5QWFdMbC5BanlXRnN2WGZzRS5oLmZILmpGLkhJLi5uM1FGakxsVlpBdkwuLi4uSUx3WEIuUE5TQUVVcUxpTHhUUEFiLmlIaWdCRk9JREhHVWxhMWtsY2JN
+        MUVLM3ZYWXdFLk8uLi5EWEUuMFBTLkI0dkJiM1VWWkF2Qy4uLkFWUS5SRi4uVk5MaklpazBRLjcuLi5QZksuZmtLLmZrQ0djeFhZZ0UuTy4uLkQzQy5nSS4uaEExRnBM
+        RkdSQXZDLjMuQXZBLlhENzJYSmIuS2lBVlYuNy4uTlAuYi5MRi4uTDFYaU0xSXhUaUtON1BBLkxGLnpBdlRBY0VIRTBESFVBRUh5bnhIUUwxWGlBZkcuWC4uZk0uS0Iu
+        dkxRSGhFaU0xWC4zQS5RLi5YQkxsLi5uaElUM3dYaU1GLmYuLi4uLkZCaUkuLjBuUklZTDFYaU1sRy5MLi4uTWZPLkxWTVFIeEVpTTFYLjNBLk0uLlBCSEYuaW9oSVQ3
+        d1hpTUYuZi4uLi4uREJpQXZYaU0xVGk4eE14SHkuTUQuLi5URUJMdmpRT0lVWTVBeEpxdjBYWExGSi4udlguLi4uLi5QTi4uZi4uTEZIaWdCLi5MRi4uLi4uLmpDLmlB
+        dkxpTXhYbi4uLmhBLi4uLi4uNC52WC4udlhtTEZKLi52WC4uLi4uLlBOLkxsLi5MVktpZ0IuLkxGLi4uLi4uakMuaUlmRmlNeFhuTDFRLi4uLi4uLi40LnZYQnp2WGlN
+        Rkp4SGlMeDdBQlQ3akdCYkFGRTR6UE9Va1NUVWpUU3N2Q1dmaVNLTUYuLi4uLi4uRy5pVVBJaU0xWDJMMVhpQS4uLi4uLnZBZlcuLnZCT2JRTk5zelguLi4uLi4uRi5M
+        VkFsTDFYaWd5WGlNRi4uLi4uLi4uLmRBLi5LN3ZFMTN6UmlBLi4uLi4udkF2WEVYeFhpTVZNaU0xWC4uLi4uLi5OLjNFLi5MRkdpTWxMeEhpTEQ3ZksuM1BLMGZBVW5V
+        bWFqVWxiZi54TC5UVUNxSHlYLi5mQy4uLi5OQXZUSC4uQ1dVeEowTEYuLjMuLi4uLkQuTEZBLmp3VWhyaE5pQS4uTi4uLi4uRi5pUS4uLmIwSnE3eFguLmZDLi4uLjMu
+        dldELi4uWXd5SkFNRi4uMy4uLi4uWC5IRUMuN1RFN3J4WFBBLi5OLi4uLmZDLmlRLi4uLi4uLkhpTHhIU0VPbkFFaS5QRExUelhuOFZRaWcxYWZMU01HSEJLaVFrRy5E
+        aS4uTC5URFRDRC5Id0JvWHhYNnZBLnguLklDLkRCYkkuLlZmUElxTDFVcy5QTVEudi5JZy5RSi4uSFFyd0ppb0RQLm5CLi4uLkpFLmwuLkhnRFp2d1hHUUMudFB2SENI
+        Z0FSSS4uN1hQRWtMbFcwLmZYLi52Q1hrdlhCLnZYaU0xWHhIaUx4ZnZBcC4uLi5EQ0NzRGpTQXd6U0dBUkxzUFJGdzd3WERBLi4uLi4uLmZDQjkueFJrWGdFeExsRU8u
+        Li4uLi4ubjh2WEouLklqWEFLaW9SSS4uLi4uLi5WQXZCTi5uQkRnanhYZi4uLi4uUEEuLnkuaW8uLllmZ0VhTGxQLi4uLi4uLi5YQS5JZC52SFJYd0hpQTBKLi4uLi4u
+        Li5DTGxCLkwxWGlNbEx4SGlMRHZ2SS5YLi5YTEFUdGp6UEVBaEwwM1JMaXdDSndMMVcuLi4uLi4uLjMuZlNHM3hYN0xSTGk4RS4uLi4uLi4uSi5iMEF0TEZPZkR5WGVB
+        Li4uLi4uLmZDLlNjLkRaY3YuR0xsVy4uLi4uLi4uNi4uTkZEeVh3WEJHaTRFLi4uLi4uLnZOLi5rLitNMUYwcnhYYUEuLi4uLi4uZkMuaUkuLmlvU0tYSENMYklpLkhM
+        Qi4uLlBMWFhEU0VnVVJmLkJIZlB5WFVNbEtNd2tYLmJSTVQudk8uMy5BLkxsVlZiQ1RjVUUudkxGREI3Qy5KSS4uaW9oRUZNVlg3LnZJYnNUQisuZlJCLnZYU1l3UGl3
+        RVQuSFJCLi52Ty5qay4uTEZRbUwxWGlNVlguLlBQLjdDLlJJLi5TY2hIOC4xWGNBLi4uLi4uKy52WEIuZldDOEVPeEhpTHhEd0F5YkIuLmpDRkFJRVRmSGlNdi5DSGZM
+        bEsudndYY2NFLjEuLi4uREMuR1EuLmk0Qi5iTFZXV0FmTS4uLi40LlBTQi52WHQuLkdpMDBVLlhDLi4uUEpEUGsuLjNSSFRMeFhiUUUuLi4uLi5ILkNpRS4uaU0xWFlM
+        MVhpQS5KVGIuLnZBUFcuLmZMaU1sR2lNMVguLi4uLi4uYi5MRkEuTDFYaU1sTHhIaUxBWGZJZy4uLjRmUVB4QTJKQlVtZDVJMGJOOGtRY0xGWEtBdk0uckQuNEh2WEQu
+        UEZZdlBPaU0xWC5MQy4uLlBOLlRrLi5EeFdGMHdYaU1GLnYuZkcuREcuWlEuLnhqQUNGTWxWZ0F2TC4uLi40UHdYQkQuR2VZVEdpQTFTLi5DLkNBUC5EbkVBLkhSRkxE
+        eFhpa0MueS4uLi5qQ0JpSS4uSlRmQUZIaUx4SGlFc1RoSmxQQkZYUGtUV0FCSGYuQkhmLnhUTW5TRGlva1YuLlIuLi5QSC5Ea0guSEVDZS53WFhnRS5rRC4uLkRCLjYz
+        Li5ZTUZOakwxWGlBLi4uSC4uby52VC4uUERlWFFIaU0xWC4uLi5HLlBKLkxsLi4zakNLandYUmMwS0wuLi4uREUuQUlCLlEuaEhkTDFYaUEuLi4uLi5RQXZYQi52WGlN
+        bFB5SGlMeGJQQ2lNZkcuSEFGTWtqVElRelNSQVJMZjNFS28zeFgrWEMuaUhUQU5qaS5PQUEuZUVSTGlMMUwxLlBKLlAuQzZIZ1RGLmZXVy5UTWlNaU0uYkRMR1BmTlJi
+        REEuSGpFcGJ4WHlUQy5tYnhBTFRmQ2lJUC5pVXdYYkxGLi4udktkbi5CRklBU0JEdlhVTEZHaUEuLi5uZkdKZmZhVkxsLkF6elYzdnlMeEhpTEd6LlAuLnZYeWZBUUVZ
+        VVJMQUJVQU16UktuUUFiTDFXLi4uLi4uLi42LnZSRUxoQlkuZkppNEUuLi4uLi4uLk4uWERBaWtQRi5ueFhkQS4uLi4uLi5mQy5PTWZTTC5RREdMbFcuLi4uLi4uLjY3
+        bVUuLlRELmYuR2lFbFUuLi4uLi52Ti4uMC4wbndCWmJ3WC4uLi4uLi4uLmZDLmlBUFFSQS4uTkhDTXZIQ0RGTEIuLi52Ti5IVVVNSURTRUFCSGZEeVhQMy5EeEh4WC5i
+        Qi4uLi5ILlBESC5idkNRUHhYVW9DLm0uLi4uLkIuaUFBLkZ6dkJYWFNVaUF2SS4uLi4zLnZWRC4uRk9Ed0lpVUVILmJCLi4uLk4uTEZBLmYuQ09UQU1VTUYubS4uLi5m
+        RC5Wdy4uZ1BnRm1MVlUwLnZJLi4uLkhBdlhGLnZYaU0xWHhIaUx4VC5DTHZQQS5mQkNDRXpUQ0VEUUVBaEx3TDFYaU0xWGlNRi5DTUYuLi4yLmljLkRpTTFYaU0xWGlB
+        dlBpTUYuLkxQVy4ueFhpTUZRaU0xWC5yeFhpQS5CQ0wxQUxMMVhpTTFYaU1GLnFMMVguZncuaVEuSGlNMVhpTTFYaUEuRS5MRi5QTHZYR2Z2VGlNMVhpTTFYLlBBLmlB
+        Li5DbkVDTU0xWGlNbEx4SGlMZWouLi4uLi55ZndQclBES0VJRktGQUJIWGZrS2t2eVguLi4uLi4uLjNMdlhSYi5HWEFTSTdMRi4uLi4uLi4uTkNMbENJLkJWdFRCT2lB
+        Li4uLi4uLmZ5LmlvdkNqamtLa3Z5WC4uLi4uLi4uM0x2WEouUEtYNFJJN0xGLi4uLi4uLi5OQ0xGQUtMRlZ1WHhYaUEuLi4uLi4uZnkuaVEuLmlNMVhpSWlMeEh5R0hM
+        Ri4uLnZNTFBVY3RRMVR6RUZjaTRrSGRIUUlpY0RGLlhCLkF3dkRQamlGSGJnR1ozeFhRVUMueFhELk9IVkJyUC4uZFh4THNMRlJiLnZKOFB3LlpEUU5CLlBLV1B4Smlz
+        VE0uLi4uLi52TEZMbC4uTDFGN25RUmlBLi4uN1FCQ2ZRQ2lJLi5pVVFJcEwxWGFBLi4uLi4uamt2WEIudlhpTTFYeEhpTHhYdkNYalNCWURDQ3NiMFNCSURTRUFSTHNq
+        Q0hNNHdYaW9DLkouLi5EZkNCaUEuLkszUUZiTDFYLi5mQi4uLkEzZi5XSi5mRkdRd0lpTUYuLi4uLi5QLk5IekVBLm52WFRqeFhpQS4uLi4uLi5mQ0FjQVAuUkxGRWlN
+        MVguLi4uLi4uLjNmZlZELi5HaVF3SGlNVkQuLi4uLi4uTkRMRi4uTGxYS3dpTHhIaUxQTHZIWUEuLkhmZ1FJd0RVRUlVS1NjRVRUbi5HWDMwVC5BZkoxLlAuM3YuUEYu
+        dkdIYkFHaWNrUC52UkFOTC5OSHZrLi5uRExMUFJUaVFELnVmUEMuZkNFaUkuLlhuUkNKTEZXQkFQS0l2Li4zLlBPRC5mR3RmLkNpTTFQLnpCQkxELk4uUGsuLnZqRER2
+        QlVpWUQucm5QQy4uR0VpSS4uZE16VzdIaUx4SGkuTmZDUS43eUVYTFVQSEVqVEFBQkhmLnhYaVFRTmlNbEIuLi4uLi4uTi5yaUhpY3ZYaWt3WGlNRi4uLi4uLmZDLnNY
+        UU1pTDFYY0wxWGlBLi4uLi4uMy52WEpueEVpTVZGaU0xWC4uLi4uLi5OLkxsQ0dzZ0Vpb1JVaU1GLi4uLi4uZkMuUklCLm5MMVhqTDFYaUEuLi4uLi5QQXZYVFhQUGlN
+        MVh4SGlMeDNmQWkuLi4uREMuRXdUUUNRa1RPNERId0xGLi4udlhpTUYuTy4uLkRiLi5MSS4uS294UWhMMVhpQXZDLi4uQXlBdlhCLnZYSDhRRC5YRC4uNy4uLlB2Ty5M
+        RkQuTDFYakx4WGlBLi5PLi4uRHJDLmlJLi5pQS4uLkwxWGlBdkMuLi5BbUFQVS4uLk1wYmpIaU0xWC43Li4uUHZYLkxsLi5MMVhpTWxMeEhpTFc3dkZuLkEuZmZnUEE0
+        elJTd0JIVDRCSFhMMVhZendGZUxGLi4uLi52QS5WLi52WGlNbEZGVUNNaUEuLi4uLkIuWFQuLnp2WGljUVNNOEQuLi4uLi5mQy5Ndy4uNUwxWGtMMVhpQS4uLi4uLjMu
+        dlhCLnZYaU0xRU0welNpQS4uLi4uTi5URENYandYaVV4WGlNRi4uLi4uLmZBLlZRLkZpTTFYaUlpTHhIQ0JOanYuRy4uRExMRWF1YzJMREFCVGdRVk5mempHaU1sTi5u
+        Li4uUC5MRExWLllyZkdZdndYaUEuLkouLi5EZkNBYmcuLlpiREVtTDFYLi4uLi4uLkFIUVBXeVQuQkpQUUppTUYuLi4uLi4uLk5FemtDLkh3WFRQeFhpQS4uLi4uLi4u
+        VEFaUS4uYkxGRWlMMVhRLi4uLi4uLjNUdlhMLmZYaHNET3hIaUx4LncuaUxsQkguQ0NMWXpTZkwwVUVVRFRmZjA4IiBiYXNlNjQ6cHJvZ3JhbT0iMTYxLmlNMVhpTTFY
+        aUEuLi4uLi4uLi4uLi4uLkEudkFpTTFYaU0xWGlBLi4uLi4uLi4uLi4uLi5BLnZBaU0xWGlNMVhpQS4uLi4uLi4uLi4uLi4uQS52QWlNMVhpTTFYaUEuLi4uLi4uLi4u
+        Li4uLkEudkFpTTFYaU0xWGlBLi4uLi4uLi4uLi4uLi5BLnZBaU0xWGlNMVhpQS4uLi4uLi4uLi4uTEYuQS52QWlNMVhpSWlMeEhDLi5ELi4uLlBFLlB2LlhqalNJUUVI
+        VjhUUkNVek8uLi4uLi4uIi8+PGRleGVkVHVuaW5nPjxzY2w+ISAyNCBlcXVhbCBkaXZpc2lvbnMgb2YgMl8xLnNjbAohIENyZWF0ZWQgdXNpbmcgU2NhbGUgV29ya3No
+        b3AgMS40LjIKIQohIGh0dHBzOi8vc2V2aXNoLmNvbS9zY2FsZXdvcmtzaG9wLz9uYW1lPTI0JTIwZXF1YWwlMjBkaXZpc2lvbnMlMjBvZiUyMDIlMkYxJmFtcDtkYXRh
+        PTUwLiUwQTEwMC4lMEExNTAuJTBBMjAwLiUwQTI1MC4lMEEzMDAuJTBBMzUwLiUwQTQwMC4lMEE0NTAuJTBBNTAwLiUwQTU1MC4lMEE2MDAuJTBBNjUwLiUwQTcwMC4l
+        MEE3NTAuJTBBODAwLiUwQTg1MC4lMEE5MDAuJTBBOTUwLiUwQTEwMDAuJTBBMTA1MC4lMEExMTAwLiUwQTExNTAuJTBBMTIwMC4mYW1wO2ZyZXE9NDQwJmFtcDttaWRp
+        PTY5JmFtcDt2ZXJ0PTUmYW1wO2hvcml6PTEmYW1wO2NvbG9ycz13aGl0ZSUyMGJsYWNrJTIwd2hpdGUlMjB3aGl0ZSUyMGJsYWNrJTIwd2hpdGUlMjBibGFjayUyMHdo
+        aXRlJTIwd2hpdGUlMjBibGFjayUyMHdoaXRlJTIwYmxhY2smYW1wO3dhdmVmb3JtPXNlbWlzaW5lJmFtcDthbXBlbnY9b3JnYW4KIQoyNCBlcXVhbCBkaXZpc2lvbnMg
+        b2YgMi8xCiAyNAohCiA1MC4KIDEwMC4KIDE1MC4KIDIwMC4KIDI1MC4KIDMwMC4KIDM1MC4KIDQwMC4KIDQ1MC4KIDUwMC4KIDU1MC4KIDYwMC4KIDY1MC4KIDcwMC4K
+        IDc1MC4KIDgwMC4KIDg1MC4KIDkwMC4KIDk1MC4KIDEwMDAuCiAxMDUwLgogMTEwMC4KIDExNTAuCiAxMjAwLgo8L3NjbD48a2JtPjwva2JtPjwvZGV4ZWRUdW5pbmc+
+        PG1pZGlDQy8+PC9kZXhlZFN0YXRlPgAAAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQABAUJ5cGFzcwABAQMAHQAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAAAAAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AF2A0171-21D3-4EAB-BB90-63196CAD7A5A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2B98371C-268C-4D42-8DE5-FF87524E67B3}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 296
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A169D05-DC7A-4C87-8DA1-D150EF56FCCC}
+      IID 38
+      NAME "Unsaid Sol Practice 20230216.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D90A98F-0818-4680-8A69-910CBC103D4F}
+      <SOURCE MP3
+        FILE "Unsaid Sol Practice 20230216.mp3" 1
+      >
+    >
+  >
+  <TRACK {BF89E65B-E5BB-43C5-8655-E197945212CC}
+    NAME "Sol GT  Practice Track"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 1 2 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 64 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BF89E65B-E5BB-43C5-8655-E197945212CC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -912 187 666 404
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAC3AQAA
+        aAEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C48E1807-FFBF-4CF7-8F09-564685AF372E}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2C87824B-58EA-4B72-8079-39F4F37FA87C}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A607B75F-0C30-48FB-BF4B-C68CA5B5842C}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4D928F8D-1599-4F11-81C1-1989DD49B605}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {CB6FD831-B57C-436A-8D48-F7FA7F7BD4D3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4E31A694-8FF0-4427-8D46-78AC44C45853}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {911A1226-D1B5-46BB-A0B5-0E1A7ABD5164}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 296
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9096A41A-7349-4B19-B35B-ECB410D9458E}
+      IID 9
+      NAME "02-Sol GT  Practice Track-230225_1739.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25937421 R
+      GUID {EB2F1F00-572B-49A7-A7D5-C0C611C65BAF}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "02-Sol GT  Practice Track-230225_1739.wav"
+      >
+      TAKE
+      NAME "02-Sol GT  Practice Track-230225_1739.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 296
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25597520 R
+      GUID {8A3A5616-DCCA-48CC-B11E-AD0D1B142614}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "02-Sol GT  Practice Track-230225_1739.wav"
+      >
+    >
+  >
+  <TRACK {A0A35B98-797C-4E67-952F-13A76597435E}
+    NAME "GT Notation"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.16829929582119 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 12 1 4 0 0 0 0
+    VU 2
+    TRACKHEIGHT 138 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A0A35B98-797C-4E67-952F-13A76597435E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1040 50 859 560
+      SHOW 0
+      LASTSEL 6
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EBCEBEFD-D2F5-4B1C-B056-987C37285F97}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EC4980C0-34CC-486A-AA12-B61923EB9306}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {B8150DF5-F375-43B7-87CC-885D08502DE2}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C5D7973E-80CA-40EE-816E-99DAA66AE15F}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {D0E943FD-06E9-40AA-9FF4-C8FBCFC3698D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABEAAAAAAAAAAAAEAA=
+        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {024135B8-B542-4988-A51E-A35AF0CE83C8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E6CF141E-D9F1-4C97-A8F5-64AD7DEBA130}
+      WAK 0 0
+    >
+    <FXCHAIN_REC
+      WNDRECT -827 150 716 200
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAEAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E52582E3-3104-4BAF-88D1-C15DDF523C9E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        -60 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E042B809-5D08-49C1-9398-E422B88AB5E2}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 296
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5CC3A45-A106-4B49-A92D-34E8AA1C47B6}
+      IID 10
+      NAME "03-GT Notation-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25937421 R
+      GUID {BDF3F4B1-311A-43CD-AC2F-83396C1C6954}
+      RECPASS 1
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {037CF01C-BD03-4D9C-8D3F-9D4659513AA9}
+        E 7479 90 37 7f
+        E 67 80 37 7f
+        E 4079 90 42 7f
+        E 67 80 42 7f
+        E 55 90 40 7f
+        E 112 80 40 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 40 7f
+        E 234 80 40 7f
+        E 0 90 41 7f
+        E 167 80 41 7f
+        E 67 90 41 7f
+        E 55 80 41 7f
+        E 56 90 3f 7f
+        E 56 80 3f 7f
+        E 0 90 3e 7f
+        E 691 80 3e 7f
+        E 56 90 3e 7f
+        E 55 80 3e 7f
+        E 1561 90 41 7f
+        E 111 80 41 7f
+        E 413 90 41 7f
+        E 55 80 41 7f
+        E 2987 90 4a 7f
+        E 234 80 4a 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 234 90 47 7f
+        E 457 80 47 7f
+        E 0 90 2f 7f
+        E 1159 80 2f 7f
+        E 223 90 4e 7f
+        E 401 80 4e 7f
+        E 0 90 4d 7f
+        E 67 80 4d 7f
+        E 112 90 4a 7f
+        E 457 80 4a 7f
+        E 0 90 49 7f
+        E 345 80 49 7f
+        E 234 90 46 7f
+        E 1271 80 46 7f
+        E 111 90 47 7f
+        E 1438 80 47 7f
+        E 981 90 4a 7f
+        E 178 80 4a 7f
+        E 0 90 3b 7f
+        E 56 80 3b 7f
+        E 223 90 45 7f
+        E 468 80 45 7f
+        E 0 90 42 7f
+        E 401 80 42 7f
+        E 56 90 3e 7f
+        E 1494 80 3e 7f
+        E 0 90 3d 7f
+        E 66 80 3d 7f
+        E 0 90 3e 7f
+        E 168 80 3e 7f
+        E 869 90 44 7f
+        E 345 80 44 7f
+        E 112 90 41 7f
+        E 457 80 41 7f
+        E 0 90 3d 7f
+        E 2017 80 3d 7f
+        E 290 90 32 7f
+        E 56 80 32 7f
+        E 290 90 32 7f
+        E 111 80 32 7f
+        E 123 90 4a 7f
+        E 223 80 4a 7f
+        E 289 90 47 7f
+        E 402 80 47 7f
+        E 0 90 2f 7f
+        E 66 80 2f 7f
+        E 0 90 42 7f
+        E 279 80 42 7f
+        E 178 90 4e 7f
+        E 859 80 4e 7f
+        E 66 90 45 7f
+        E 346 80 45 7f
+        E 290 90 4a 7f
+        E 111 80 4a 7f
+        E 0 90 49 7f
+        E 346 80 49 7f
+        E 0 90 4b 7f
+        E 55 80 4b 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 46 7f
+        E 123 80 46 7f
+        E 167 90 46 7f
+        E 1148 80 46 7f
+        E 0 90 47 7f
+        E 67 80 47 7f
+        E 111 90 47 7f
+        E 1438 80 47 7f
+        E 580 90 40 7f
+        E 55 80 40 7f
+        E 56 90 40 7f
+        E 234 80 40 7f
+        E 167 90 45 7f
+        E 346 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 0 90 45 7f
+        E 66 80 45 7f
+        E 0 90 42 7f
+        E 402 80 42 7f
+        E 0 90 26 7f
+        E 223 80 26 7f
+        E 0 90 3f 7f
+        E 66 80 3f 7f
+        E 0 90 3e 7f
+        E 1438 80 3e 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 1037 90 44 7f
+        E 401 80 44 7f
+        E 55 90 41 7f
+        E 469 80 41 7f
+        E 0 90 3d 7f
+        E 802 80 3d 7f
+        E 178 90 40 7f
+        E 279 80 40 7f
+        E 0 90 41 7f
+        E 524 80 41 7f
+        E 0 90 40 7f
+        E 457 80 40 7f
+        E 0 90 41 7f
+        E 401 80 41 7f
+        E 290 90 34 7f
+        E 178 80 34 7f
+        E 0 90 4a 7f
+        E 569 80 4a 7f
+        E 67 90 28 7f
+        E 55 80 28 7f
+        E 0 90 34 7f
+        E 56 80 34 7f
+        E 56 90 34 7f
+        E 55 80 34 7f
+        E 0 90 47 7f
+        E 402 80 47 7f
+        E 67 90 42 7f
+        E 746 80 42 7f
+        E 112 90 4e 7f
+        E 401 80 4e 7f
+        E 123 90 4a 7f
+        E 457 80 4a 7f
+        E 0 90 49 7f
+        E 345 80 49 7f
+        E 178 90 46 7f
+        E 1093 80 46 7f
+        E 746 90 3d 7f
+        E 56 80 3d 7f
+        E 56 90 2a 7f
+        E 981 80 2a 7f
+        E 401 90 2d 7f
+        E 290 80 2d 7f
+        E 55 90 45 7f
+        E 346 80 45 7f
+        E 0 90 2e 7f
+        E 123 80 2e 7f
+        E 0 90 46 7f
+        E 55 80 46 7f
+        E 56 90 42 7f
+        E 457 80 42 7f
+        E 0 90 3e 7f
+        E 1560 80 3e 7f
+        E 0 90 3d 7f
+        E 112 80 3d 7f
+        E 0 90 3e 7f
+        E 178 80 3e 7f
+        E 0 90 3f 7f
+        E 56 80 3f 7f
+        E 56 90 2d 7f
+        E 55 80 2d 7f
+        E 56 90 2d 7f
+        E 123 80 2d 7f
+        E 512 90 2d 7f
+        E 56 80 2d 7f
+        E 178 90 44 7f
+        E 346 80 44 7f
+        E 56 90 41 7f
+        E 457 80 41 7f
+        E 0 90 3d 7f
+        E 1906 80 3d 7f
+        E 0 90 3e 7f
+        E 858 80 3e 7f
+        E 67 90 4a 7f
+        E 223 80 4a 7f
+        E 0 90 3e 7f
+        E 234 80 3e 7f
+        E 0 90 47 7f
+        E 746 80 47 7f
+        E 290 90 4e 7f
+        E 346 80 4e 7f
+        E 0 90 4d 7f
+        E 55 80 4d 7f
+        E 123 90 4b 7f
+        E 167 80 4b 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 26 7f
+        E 56 80 26 7f
+        E 0 90 4a 7f
+        E 234 80 4a 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 0 90 36 7f
+        E 56 80 36 7f
+        E 0 90 49 7f
+        E 67 80 49 7f
+        E 0 90 36 7f
+        E 56 80 36 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 0 90 36 7f
+        E 56 80 36 7f
+        E 178 90 46 7f
+        E 457 80 46 7f
+        E 0 90 47 7f
+        E 747 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 0 90 47 7f
+        E 56 80 47 7f
+        E 2485 90 45 7f
+        E 56 80 45 7f
+        E 914 90 45 7f
+        E 345 80 45 7f
+        E 67 90 42 7f
+        E 457 80 42 7f
+        E 56 90 3e 7f
+        E 401 80 3e 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 0 90 3e 7f
+        E 67 80 3e 7f
+        E 457 90 41 7f
+        E 524 80 41 7f
+        E 0 90 42 7f
+        E 457 80 42 7f
+        E 0 90 41 7f
+        E 456 80 41 7f
+        E 0 90 42 7f
+        E 402 80 42 7f
+        E 0 90 41 7f
+        E 67 80 41 7f
+        E 223 90 44 7f
+        E 401 80 44 7f
+        E 67 90 41 7f
+        E 457 80 41 7f
+        E 0 90 3d 7f
+        E 746 80 3d 7f
+        E 179 90 40 7f
+        E 345 80 40 7f
+        E 0 90 41 7f
+        E 513 80 41 7f
+        E 0 90 42 7f
+        E 345 80 42 7f
+        E 0 90 41 7f
+        E 346 80 41 7f
+        E 0 90 40 7f
+        E 56 80 40 7f
+        E 234 90 4a 7f
+        E 345 80 4a 7f
+        E 56 90 40 7f
+        E 56 80 40 7f
+        E 122 90 47 7f
+        E 401 80 47 7f
+        E 56 90 42 7f
+        E 457 80 42 7f
+        E 0 90 4e 7f
+        E 123 80 4e 7f
+        E 0 90 36 7f
+        E 512 80 36 7f
+        E 0 90 3b 7f
+        E 56 80 3b 7f
+        E 0 90 4e 7f
+        E 123 80 4e 7f
+        E 167 90 4a 7f
+        E 401 80 4a 7f
+        E 123 90 49 7f
+        E 802 80 49 7f
+        E 112 90 46 7f
+        E 1215 80 46 7f
+        E 111 90 47 7f
+        E 1616 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 747 90 45 7f
+        E 468 80 45 7f
+        E 56 90 42 7f
+        E 457 80 42 7f
+        E 55 90 3e 7f
+        E 2419 80 3e 7f
+        E 579 90 44 7f
+        E 290 80 44 7f
+        E 0 90 45 7f
+        E 167 80 45 7f
+        E 0 90 41 7f
+        E 524 80 41 7f
+        E 0 90 3d 7f
+        E 803 80 3d 7f
+        E 234 90 40 7f
+        E 345 80 40 7f
+        E 0 90 41 7f
+        E 513 80 41 7f
+        E 0 90 42 7f
+        E 345 80 42 7f
+        E 0 90 41 7f
+        E 469 80 41 7f
+        E 167 90 40 7f
+        E 55 80 40 7f
+        E 67 90 4b 7f
+        E 402 80 4b 7f
+        E 0 90 3f 7f
+        E 55 80 3f 7f
+        E 0 90 47 7f
+        E 1093 80 47 7f
+        E 55 90 28 7f
+        E 67 80 28 7f
+        E 0 90 34 7f
+        E 56 80 34 7f
+        E 290 90 43 7f
+        E 223 80 43 7f
+        E 0 90 42 7f
+        E 55 80 42 7f
+        E 67 90 42 7f
+        E 401 80 42 7f
+        E 112 90 4e 7f
+        E 524 80 4e 7f
+        E 401 90 4a 7f
+        E 568 80 4a 7f
+        E 0 90 49 7f
+        E 234 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 179 90 46 7f
+        E 1259 80 46 7f
+        E 123 90 47 7f
+        E 980 80 47 7f
+        E 56 90 3b 7f
+        E 112 80 3b 7f
+        E 111 90 38 7f
+        E 123 80 38 7f
+        E 234 90 26 7f
+        E 1259 80 26 7f
+        E 56 90 26 7f
+        E 981 80 26 7f
+        E 0 90 2b 7f
+        E 122 80 2b 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 234 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 3e 7f
+        E 111 80 3e 7f
+        E 0 90 4a 7f
+        E 635 80 4a 7f
+        E 0 90 2d 7f
+        E 112 80 2d 7f
+        E 55 90 26 7f
+        E 179 80 26 7f
+        E 345 90 26 7f
+        E 56 80 26 7f
+        E 112 90 26 7f
+        E 66 80 26 7f
+        E 0 90 4c 7f
+        E 346 80 4c 7f
+        E 167 90 4e 7f
+        E 290 80 4e 7f
+        E 0 90 4d 7f
+        E 56 80 4d 7f
+        E 111 90 49 7f
+        E 346 80 49 7f
+        E 0 90 4a 7f
+        E 635 80 4a 7f
+        E 56 90 45 7f
+        E 412 80 45 7f
+        E 0 90 44 7f
+        E 457 80 44 7f
+        E 0 90 43 7f
+        E 111 80 43 7f
+        E 290 90 3e 7f
+        E 524 80 3e 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 111 90 32 7f
+        E 524 80 32 7f
+        E 56 90 42 7f
+        E 56 80 42 7f
+        E 0 90 26 7f
+        E 691 80 26 7f
+        E 0 90 42 7f
+        E 55 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 3e 7f
+        E 67 80 3e 7f
+        E 401 90 36 7f
+        E 1037 80 36 7f
+        E 457 90 4c 7f
+        E 523 80 4c 7f
+        E 223 90 31 7f
+        E 179 80 31 7f
+        E 401 90 49 7f
+        E 167 80 49 7f
+        E 0 90 35 7f
+        E 67 80 35 7f
+        E 111 90 32 7f
+        E 112 80 32 7f
+        E 290 90 44 7f
+        E 401 80 44 7f
+        E 0 90 45 7f
+        E 412 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 0 90 43 7f
+        E 56 80 43 7f
+        E 0 90 44 7f
+        E 55 80 44 7f
+        E 346 90 26 7f
+        E 1382 80 26 7f
+        E 112 90 26 7f
+        E 523 80 26 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 56 90 26 7f
+        E 66 80 26 7f
+        E 112 90 2d 7f
+        E 290 80 2d 7f
+        E 0 90 39 7f
+        E 223 80 39 7f
+        E 234 90 2a 7f
+        E 55 80 2a 7f
+        E 56 90 2a 7f
+        E 67 80 2a 7f
+        E 513 90 36 7f
+        E 55 80 36 7f
+        E 0 90 49 7f
+        E 56 80 49 7f
+        E 580 90 4c 7f
+        E 289 80 4c 7f
+        E 235 90 49 7f
+        E 746 80 49 7f
+        E 223 90 46 7f
+        E 346 80 46 7f
+        E 0 90 45 7f
+        E 524 80 45 7f
+        E 55 90 45 7f
+        E 346 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 66 90 30 7f
+        E 56 80 30 7f
+        E 56 90 2b 7f
+        E 56 80 2b 7f
+        E 55 90 2b 7f
+        E 56 80 2b 7f
+        E 67 90 26 7f
+        E 56 80 26 7f
+        E 167 90 26 7f
+        E 1326 80 26 7f
+        E 56 90 26 7f
+        E 579 80 26 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 0 90 3e 7f
+        E 112 80 3e 7f
+        E 0 90 26 7f
+        E 122 80 26 7f
+        E 56 90 2d 7f
+        E 401 80 2d 7f
+        E 112 90 36 7f
+        E 523 80 36 7f
+        E 0 90 49 7f
+        E 290 80 49 7f
+        E 0 90 48 7f
+        E 56 80 48 7f
+        E 167 90 4c 7f
+        E 524 80 4c 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 290 90 45 7f
+        E 401 80 45 7f
+        E 0 90 44 7f
+        E 401 80 44 7f
+        E 123 90 44 7f
+        E 457 80 44 7f
+        E 0 90 45 7f
+        E 345 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 178 90 42 7f
+        E 747 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 1092 90 45 7f
+        E 56 80 45 7f
+        E 67 90 45 7f
+        E 278 80 45 7f
+        E 468 90 2d 7f
+        E 56 80 2d 7f
+        E 111 90 3e 7f
+        E 981 80 3e 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 579 90 44 7f
+        E 290 80 44 7f
+        E 167 90 44 7f
+        E 346 80 44 7f
+        E 67 90 41 7f
+        E 512 80 41 7f
+        E 0 90 3d 7f
+        E 925 80 3d 7f
+        E 2073 90 4a 7f
+        E 636 80 4a 7f
+        E 223 90 47 7f
+        E 412 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 56 90 42 7f
+        E 802 80 42 7f
+        E 123 90 4e 7f
+        E 457 80 4e 7f
+        E 111 90 4a 7f
+        E 346 80 4a 7f
+        E 0 90 49 7f
+        E 345 80 49 7f
+        E 178 90 46 7f
+        E 1148 80 46 7f
+        E 0 90 47 7f
+        E 234 80 47 7f
+        E 0 90 2b 7f
+        E 1093 80 2b 7f
+        E 1215 90 45 7f
+        E 457 80 45 7f
+        E 0 90 42 7f
+        E 579 80 42 7f
+        E 56 90 3e 7f
+        E 1895 80 3e 7f
+        E 0 90 3d 7f
+        E 122 80 3d 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 747 90 3b 7f
+        E 401 80 3b 7f
+        E 0 90 28 7f
+        E 234 80 28 7f
+        E 0 90 3b 7f
+        E 290 80 3b 7f
+        E 55 90 3d 7f
+        E 1093 80 3d 7f
+        E 0 90 3c 7f
+        E 635 80 3c 7f
+        E 56 90 26 7f
+        E 56 80 26 7f
+        E 0 90 32 7f
+        E 869 80 32 7f
+        E 111 90 4a 7f
+        E 234 80 4a 7f
+        E 223 90 47 7f
+        E 468 80 47 7f
+        E 0 90 2f 7f
+        E 1728 80 2f 7f
+        E 0 90 42 7f
+        E 345 80 42 7f
+        E 56 90 37 7f
+        E 56 80 37 7f
+        E 0 90 38 7f
+        E 56 80 38 7f
+        E 122 90 4e 7f
+        E 624 80 4e 7f
+        E 0 90 4d 7f
+        E 67 80 4d 7f
+        E 223 90 4a 7f
+        E 401 80 4a 7f
+        E 0 90 49 7f
+        E 357 80 49 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 111 90 46 7f
+        E 1382 80 46 7f
+        E 112 90 47 7f
+        E 579 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 234 90 2b 7f
+        E 56 80 2b 7f
+        E 178 90 38 7f
+        E 56 80 38 7f
+        E 0 90 39 7f
+        E 56 80 39 7f
+        E 0 90 38 7f
+        E 55 80 38 7f
+        E 112 90 39 7f
+        E 67 80 39 7f
+        E 0 90 38 7f
+        E 55 80 38 7f
+        E 112 90 39 7f
+        E 56 80 39 7f
+        E 55 90 26 7f
+        E 67 80 26 7f
+        E 112 90 39 7f
+        E 55 80 39 7f
+        E 0 90 26 7f
+        E 402 80 26 7f
+        E 0 90 36 7f
+        E 55 80 36 7f
+        E 0 90 25 7f
+        E 67 80 25 7f
+        E 112 90 2d 7f
+        E 55 80 2d 7f
+        E 0 90 45 7f
+        E 1037 80 45 7f
+        E 178 90 26 7f
+        E 402 80 26 7f
+        E 222 90 28 7f
+        E 123 80 28 7f
+        E 167 90 2c 7f
+        E 56 80 2c 7f
+        E 67 90 28 7f
+        E 691 80 28 7f
+        E 223 90 25 7f
+        E 345 80 25 7f
+        E 0 90 40 7f
+        E 123 80 40 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 28 7f
+        E 635 80 28 7f
+        E 56 90 28 7f
+        E 55 80 28 7f
+        E 56 90 28 7f
+        E 234 80 28 7f
+        E 234 90 25 7f
+        E 401 80 25 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 1672 90 2b 7f
+        E 111 80 2b 7f
+        E 235 90 42 7f
+        E 457 80 42 7f
+        E 0 90 2f 7f
+        E 111 80 2f 7f
+        E 0 90 34 7f
+        E 123 80 34 7f
+        E 0 90 47 7f
+        E 55 80 47 7f
+        E 0 90 2e 7f
+        E 56 80 2e 7f
+        E 234 90 4e 7f
+        E 290 80 4e 7f
+        E 167 90 4a 7f
+        E 346 80 4a 7f
+        E 0 90 49 7f
+        E 345 80 49 7f
+        E 178 90 46 7f
+        E 346 80 46 7f
+        E 0 90 47 7f
+        E 345 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 290 90 3d 7f
+        E 345 80 3d 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 0 90 2a 7f
+        E 346 80 2a 7f
+        E 0 90 42 7f
+        E 55 80 42 7f
+        E 457 90 4e 7f
+        E 524 80 4e 7f
+        E 0 90 3a 7f
+        E 112 80 3a 7f
+        E 0 90 2a 7f
+        E 178 80 2a 7f
+        E 0 90 4e 7f
+        E 167 80 4e 7f
+        E 0 90 4d 7f
+        E 123 80 4d 7f
+        E 568 90 2b 7f
+        E 56 80 2b 7f
+        E 0 90 3e 7f
+        E 123 80 3e 7f
+        E 55 90 26 7f
+        E 167 80 26 7f
+        E 179 90 26 7f
+        E 234 80 26 7f
+        E 167 90 28 7f
+        E 112 80 28 7f
+        E 289 90 26 7f
+        E 290 80 26 7f
+        E 0 90 2a 7f
+        E 112 80 2a 7f
+        E 0 90 42 7f
+        E 66 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 26 7f
+        E 167 80 26 7f
+        E 402 90 2d 7f
+        E 66 80 2d 7f
+        E 223 90 34 7f
+        E 56 80 34 7f
+        E 925 90 25 7f
+        E 346 80 25 7f
+        E 178 90 37 7f
+        E 56 80 37 7f
+        E 858 90 25 7f
+        E 468 80 25 7f
+        E 112 90 25 7f
+        E 55 80 25 7f
+        E 0 90 3d 7f
+        E 123 80 3d 7f
+        E 0 90 31 7f
+        E 167 80 31 7f
+        E 0 90 44 7f
+        E 234 80 44 7f
+        E 401 90 2a 7f
+        E 56 80 2a 7f
+        E 747 90 46 7f
+        E 122 80 46 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 0 90 47 7f
+        E 223 80 47 7f
+        E 67 90 47 7f
+        E 111 80 47 7f
+        E 290 90 46 7f
+        E 112 80 46 7f
+        E 0 90 34 7f
+        E 111 80 34 7f
+        E 0 90 47 7f
+        E 67 80 47 7f
+        E 691 90 4a 7f
+        E 401 80 4a 7f
+        E 56 90 48 7f
+        E 56 80 48 7f
+        E 0 90 2b 7f
+        E 55 80 2b 7f
+        E 0 90 48 7f
+        E 123 80 48 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 0 90 48 7f
+        E 111 80 48 7f
+        E 56 90 42 7f
+        E 56 80 42 7f
+        E 0 90 2f 7f
+        E 289 80 2f 7f
+        E 123 90 25 7f
+        E 279 80 25 7f
+        E 178 90 38 7f
+        E 56 80 38 7f
+        E 55 90 25 7f
+        E 67 80 25 7f
+        E 279 90 2a 7f
+        E 67 80 2a 7f
+        E 1549 90 25 7f
+        E 56 80 25 7f
+        E 0 90 2c 7f
+        E 56 80 2c 7f
+        E 122 90 2c 7f
+        E 56 80 2c 7f
+        E 56 90 26 7f
+        E 55 80 26 7f
+        E 290 90 29 7f
+        E 56 80 29 7f
+        E 0 90 28 7f
+        E 56 80 28 7f
+        E 1036 90 26 7f
+        E 1326 80 26 7f
+        E 123 90 26 7f
+        E 624 80 26 7f
+        E 67 90 26 7f
+        E 279 80 26 7f
+        E 0 90 39 7f
+        E 345 80 39 7f
+        E 123 90 2d 7f
+        E 635 80 2d 7f
+        E 0 90 31 7f
+        E 112 80 31 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 580 90 4c 7f
+        E 747 80 4c 7f
+        E 178 90 49 7f
+        E 457 80 49 7f
+        E 0 90 4a 7f
+        E 802 80 4a 7f
+        E 56 90 45 7f
+        E 468 80 45 7f
+        E 0 90 44 7f
+        E 346 80 44 7f
+        E 0 90 43 7f
+        E 55 80 43 7f
+        E 346 90 39 7f
+        E 56 80 39 7f
+        E 0 90 26 7f
+        E 1382 80 26 7f
+        E 55 90 26 7f
+        E 580 80 26 7f
+        E 401 90 26 7f
+        E 234 80 26 7f
+        E 0 90 39 7f
+        E 56 80 39 7f
+        E 56 90 2d 7f
+        E 691 80 2d 7f
+        E 0 90 32 7f
+        E 56 80 32 7f
+        E 0 90 2d 7f
+        E 66 80 2d 7f
+        E 0 90 31 7f
+        E 56 80 31 7f
+        E 56 90 32 7f
+        E 56 80 32 7f
+        E 401 90 4c 7f
+        E 290 80 4c 7f
+        E 111 90 32 7f
+        E 67 80 32 7f
+        E 56 90 49 7f
+        E 345 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 32 7f
+        E 56 80 32 7f
+        E 55 90 4a 7f
+        E 402 80 4a 7f
+        E 67 90 45 7f
+        E 401 80 45 7f
+        E 55 90 44 7f
+        E 402 80 44 7f
+        E 0 90 45 7f
+        E 401 80 45 7f
+        E 0 90 44 7f
+        E 401 80 44 7f
+        E 0 90 43 7f
+        E 123 80 43 7f
+        E 56 90 43 7f
+        E 55 80 43 7f
+        E 56 90 27 7f
+        E 56 80 27 7f
+        E 67 90 27 7f
+        E 111 80 27 7f
+        E 0 90 3a 7f
+        E 401 80 3a 7f
+        E 0 90 39 7f
+        E 691 80 39 7f
+        E 0 90 45 7f
+        E 179 80 45 7f
+        E 55 90 3e 7f
+        E 56 80 3e 7f
+        E 0 90 26 7f
+        E 290 80 26 7f
+        E 0 90 2a 7f
+        E 56 80 2a 7f
+        E 0 90 42 7f
+        E 457 80 42 7f
+        E 345 90 39 7f
+        E 123 80 39 7f
+        E 55 90 36 7f
+        E 747 80 36 7f
+        E 0 90 49 7f
+        E 178 80 49 7f
+        E 513 90 4c 7f
+        E 346 80 4c 7f
+        E 178 90 49 7f
+        E 346 80 49 7f
+        E 0 90 4a 7f
+        E 624 80 4a 7f
+        E 0 90 45 7f
+        E 345 80 45 7f
+        E 0 90 44 7f
+        E 524 80 44 7f
+        E 167 90 45 7f
+        E 413 80 45 7f
+        E 0 90 44 7f
+        E 111 80 44 7f
+        E 401 90 39 7f
+        E 56 80 39 7f
+        E 56 90 26 7f
+        E 67 80 26 7f
+        E 111 90 27 7f
+        E 56 80 27 7f
+        E 178 90 26 7f
+        E 56 80 26 7f
+        E 914 90 42 7f
+        E 635 80 42 7f
+        E 691 90 4e 7f
+        E 67 80 4e 7f
+        E 0 90 36 7f
+        E 568 80 36 7f
+        E 0 90 49 7f
+        E 179 80 49 7f
+        E 290 90 4c 7f
+        E 222 80 4c 7f
+        E 179 90 49 7f
+        E 290 80 49 7f
+        E 0 90 48 7f
+        E 55 80 48 7f
+        E 112 90 44 7f
+        E 345 80 44 7f
+        E 0 90 45 7f
+        E 457 80 45 7f
+        E 179 90 43 7f
+        E 55 80 43 7f
+        E 0 90 42 7f
+        E 1382 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 524 90 28 7f
+        E 56 80 28 7f
+        E 167 90 28 7f
+        E 67 80 28 7f
+        E 111 90 39 7f
+        E 401 80 39 7f
+        E 56 90 39 7f
+        E 468 80 39 7f
+        E 56 90 26 7f
+        E 345 80 26 7f
+        E 56 90 39 7f
+        E 56 80 39 7f
+        E 0 90 26 7f
+        E 234 80 26 7f
+        E 0 90 39 7f
+        E 167 80 39 7f
+        E 123 90 26 7f
+        E 345 80 26 7f
+        E 0 90 39 7f
+        E 56 80 39 7f
+        E 56 90 26 7f
+        E 345 80 26 7f
+        E 56 90 39 7f
+        E 56 80 39 7f
+        E 0 90 26 7f
+        E 178 80 26 7f
+        E 0 90 2b 7f
+        E 167 80 2b 7f
+        E 0 90 25 7f
+        E 67 80 25 7f
+        E 112 90 25 7f
+        E 345 80 25 7f
+        E 56 90 38 7f
+        E 524 80 38 7f
+        E 0 90 25 7f
+        E 278 80 25 7f
+        E 0 90 2c 7f
+        E 67 80 2c 7f
+        E 0 90 38 7f
+        E 112 80 38 7f
+        E 0 90 25 7f
+        E 345 80 25 7f
+        E 56 90 25 7f
+        E 457 80 25 7f
+        E 0 90 38 7f
+        E 67 80 38 7f
+        E 0 90 25 7f
+        E 401 80 25 7f
+        E 56 90 25 7f
+        E 234 80 25 7f
+        E 223 90 32 7f
+        E 345 80 32 7f
+        E 123 90 3d 7f
+        E 111 80 3d 7f
+        E 290 90 42 7f
+        E 457 80 42 7f
+        E 56 90 42 7f
+        E 55 80 42 7f
+        E 0 90 2f 7f
+        E 346 80 2f 7f
+        E 123 90 2f 7f
+        E 345 80 2f 7f
+        E 56 90 42 7f
+        E 56 80 42 7f
+        E 0 90 2f 7f
+        E 345 80 2f 7f
+        E 56 90 42 7f
+        E 67 80 42 7f
+        E 0 90 2f 7f
+        E 345 80 2f 7f
+        E 56 90 42 7f
+        E 56 80 42 7f
+        E 0 90 2f 7f
+        E 345 80 2f 7f
+        E 56 90 2f 7f
+        E 56 80 2f 7f
+        E 0 90 47 7f
+        E 122 80 47 7f
+        E 0 90 48 7f
+        E 112 80 48 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 0 90 27 7f
+        E 67 80 27 7f
+        E 0 90 3f 7f
+        E 55 80 3f 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 0 90 41 7f
+        E 401 80 41 7f
+        E 0 90 2e 7f
+        E 123 80 2e 7f
+        E 0 90 41 7f
+        E 55 80 41 7f
+        E 0 90 40 7f
+        E 56 80 40 7f
+        E 234 90 2e 7f
+        E 401 80 2e 7f
+        E 56 90 2e 7f
+        E 346 80 2e 7f
+        E 0 90 29 7f
+        E 55 80 29 7f
+        E 0 90 2d 7f
+        E 56 80 2d 7f
+        E 123 90 2d 7f
+        E 345 80 2d 7f
+        E 56 90 45 7f
+        E 457 80 45 7f
+        E 178 90 2c 7f
+        E 223 80 2c 7f
+        E 0 90 28 7f
+        E 56 80 28 7f
+        E 67 90 2b 7f
+        E 111 80 2b 7f
+        E 0 90 43 7f
+        E 56 80 43 7f
+        E 1215 90 42 7f
+        E 56 80 42 7f
+        E 0 90 2f 7f
+        E 345 80 2f 7f
+        E 56 90 42 7f
+        E 56 80 42 7f
+        E 0 90 2f 7f
+        E 401 80 2f 7f
+        E 67 90 47 7f
+        E 401 80 47 7f
+        E 56 90 47 7f
+        E 401 80 47 7f
+        E 56 90 2f 7f
+        E 401 80 2f 7f
+        E 122 90 47 7f
+        E 56 80 47 7f
+        E 0 90 48 7f
+        E 112 80 48 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 0 90 4a 7f
+        E 123 80 4a 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 167 90 46 7f
+        E 412 80 46 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 46 7f
+        E 401 80 46 7f
+        E 56 90 46 7f
+        E 345 80 46 7f
+        E 56 90 46 7f
+        E 346 80 46 7f
+        E 0 90 45 7f
+        E 55 80 45 7f
+        E 123 90 2d 7f
+        E 346 80 2d 7f
+        E 111 90 2d 7f
+        E 401 80 2d 7f
+        E 56 90 2d 7f
+        E 178 80 2d 7f
+        E 0 90 34 7f
+        E 56 80 34 7f
+        E 0 90 40 7f
+        E 111 80 40 7f
+        E 0 90 2c 7f
+        E 67 80 2c 7f
+        E 0 90 3f 7f
+        E 56 80 3f 7f
+        E 0 90 2c 7f
+        E 56 80 2c 7f
+        E 0 90 3f 7f
+        E 56 80 3f 7f
+        E 0 90 3e 7f
+        E 111 80 3e 7f
+        E 0 90 3d 7f
+        E 67 80 3d 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 0 90 32 7f
+        E 55 80 32 7f
+        E 56 90 32 7f
+        E 56 80 32 7f
+        E 56 90 26 7f
+        E 289 80 26 7f
+        E 56 90 26 7f
+        E 67 80 26 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 0 90 26 7f
+        E 289 80 26 7f
+        E 56 90 42 7f
+        E 56 80 42 7f
+        E 0 90 2f 7f
+        E 869 80 2f 7f
+        E 56 90 2f 7f
+        E 401 80 2f 7f
+        E 56 90 2f 7f
+        E 401 80 2f 7f
+        E 56 90 42 7f
+        E 67 80 42 7f
+        E 0 90 2f 7f
+        E 345 80 2f 7f
+        E 56 90 36 7f
+        E 56 80 36 7f
+        E 0 90 2f 7f
+        E 55 80 2f 7f
+        E 0 90 34 7f
+        E 56 80 34 7f
+        E 0 90 47 7f
+        E 56 80 47 7f
+        E 0 90 48 7f
+        E 67 80 48 7f
+        E 0 90 49 7f
+        E 56 80 49 7f
+        E 0 90 4a 7f
+        E 111 80 4a 7f
+        E 0 90 3f 7f
+        E 56 80 3f 7f
+        E 55 90 29 7f
+        E 67 80 29 7f
+        E 0 90 39 7f
+        E 56 80 39 7f
+        E 0 90 2e 7f
+        E 56 80 2e 7f
+        E 0 90 46 7f
+        E 290 80 46 7f
+        E 55 90 46 7f
+        E 290 80 46 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 167 90 28 7f
+        E 234 80 28 7f
+        E 56 90 46 7f
+        E 468 80 46 7f
+        E 56 90 2d 7f
+        E 111 80 2d 7f
+        E 178 90 2d 7f
+        E 56 80 2d 7f
+        E 56 90 2d 7f
+        E 457 80 2d 7f
+        E 56 90 2d 7f
+        E 412 80 2d 7f
+        E 111 90 2d 7f
+        E 168 80 2d 7f
+        E 0 90 2c 7f
+        E 66 80 2c 7f
+        E 56 90 2a 7f
+        E 112 80 2a 7f
+        E 0 90 29 7f
+        E 55 80 29 7f
+        E 0 90 28 7f
+        E 56 80 28 7f
+        E 0 90 26 7f
+        E 123 80 26 7f
+        E 1036 90 48 7f
+        E 56 80 48 7f
+        E 178 90 49 7f
+        E 457 80 49 7f
+        E 0 90 4a 7f
+        E 112 80 4a 7f
+        E 55 90 4a 7f
+        E 179 80 4a 7f
+        E 0 90 4c 7f
+        E 55 80 4c 7f
+        E 56 90 4c 7f
+        E 1037 80 4c 7f
+        E 0 90 4b 7f
+        E 55 80 4b 7f
+        E 67 90 4a 7f
+        E 223 80 4a 7f
+        E 0 90 49 7f
+        E 56 80 49 7f
+        E 67 90 49 7f
+        E 111 80 49 7f
+        E 56 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 4c 7f
+        E 55 80 4c 7f
+        E 67 90 4c 7f
+        E 112 80 4c 7f
+        E 56 90 4c 7f
+        E 55 80 4c 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 67 90 4a 7f
+        E 56 80 4a 7f
+        E 167 90 4c 7f
+        E 56 80 4c 7f
+        E 66 90 47 7f
+        E 346 80 47 7f
+        E 56 90 45 7f
+        E 289 80 45 7f
+        E 56 90 45 7f
+        E 56 80 45 7f
+        E 0 90 44 7f
+        E 111 80 44 7f
+        E 56 90 44 7f
+        E 123 80 44 7f
+        E 0 90 42 7f
+        E 55 80 42 7f
+        E 56 90 42 7f
+        E 112 80 42 7f
+        E 66 90 42 7f
+        E 457 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 40 7f
+        E 56 80 40 7f
+        E 56 90 40 7f
+        E 122 80 40 7f
+        E 56 90 40 7f
+        E 111 80 40 7f
+        E 0 90 41 7f
+        E 179 80 41 7f
+        E 0 90 40 7f
+        E 512 80 40 7f
+        E 0 90 42 7f
+        E 290 80 42 7f
+        E 0 90 43 7f
+        E 179 80 43 7f
+        E 0 90 42 7f
+        E 746 80 42 7f
+        E 0 90 43 7f
+        E 56 80 43 7f
+        E 0 90 40 7f
+        E 178 80 40 7f
+        E 112 90 44 7f
+        E 234 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 55 90 45 7f
+        E 112 80 45 7f
+        E 0 90 44 7f
+        E 178 80 44 7f
+        E 56 90 45 7f
+        E 234 80 45 7f
+        E 56 90 45 7f
+        E 111 80 45 7f
+        E 112 90 49 7f
+        E 178 80 49 7f
+        E 56 90 49 7f
+        E 289 80 49 7f
+        E 56 90 49 7f
+        E 56 80 49 7f
+        E 0 90 4a 7f
+        E 345 80 4a 7f
+        E 0 90 49 7f
+        E 234 80 49 7f
+        E 0 90 4a 7f
+        E 112 80 4a 7f
+        E 56 90 4a 7f
+        E 234 80 4a 7f
+        E 55 90 28 7f
+        E 56 80 28 7f
+        E 0 90 31 7f
+        E 67 80 31 7f
+        E 0 90 44 7f
+        E 624 80 44 7f
+        E 0 90 45 7f
+        E 67 80 45 7f
+        E 56 90 45 7f
+        E 167 80 45 7f
+        E 0 90 44 7f
+        E 345 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 67 90 42 7f
+        E 223 80 42 7f
+        E 56 90 42 7f
+        E 289 80 42 7f
+        E 0 90 43 7f
+        E 179 80 43 7f
+        E 0 90 42 7f
+        E 457 80 42 7f
+        E 55 90 40 7f
+        E 524 80 40 7f
+        E 167 90 3d 7f
+        E 636 80 3d 7f
+        E 56 90 3d 7f
+        E 468 80 3d 7f
+        E 55 90 3b 7f
+        E 457 80 3b 7f
+        E 0 90 3d 7f
+        E 123 80 3d 7f
+        E 56 90 3d 7f
+        E 568 80 3d 7f
+        E 123 90 3d 7f
+        E 512 80 3d 7f
+        E 0 90 40 7f
+        E 524 80 40 7f
+        E 112 90 42 7f
+        E 579 80 42 7f
+        E 56 90 42 7f
+        E 111 80 42 7f
+        E 0 90 40 7f
+        E 346 80 40 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 67 90 42 7f
+        E 512 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 123 90 40 7f
+        E 401 80 40 7f
+        E 0 90 42 7f
+        E 111 80 42 7f
+        E 0 90 40 7f
+        E 56 80 40 7f
+        E 56 90 42 7f
+        E 468 80 42 7f
+        E 111 90 44 7f
+        E 402 80 44 7f
+        E 0 90 45 7f
+        E 55 80 45 7f
+        E 0 90 37 7f
+        E 67 80 37 7f
+        E 56 90 45 7f
+        E 457 80 45 7f
+        E 0 90 39 7f
+        E 56 80 39 7f
+        E 66 90 44 7f
+        E 402 80 44 7f
+        E 0 90 45 7f
+        E 111 80 45 7f
+        E 56 90 45 7f
+        E 401 80 45 7f
+        E 0 90 44 7f
+        E 67 80 44 7f
+        E 56 90 44 7f
+        E 457 80 44 7f
+        E 0 90 45 7f
+        E 55 80 45 7f
+        E 56 90 45 7f
+        E 468 80 45 7f
+        E 0 90 47 7f
+        E 56 80 47 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 55 90 47 7f
+        E 290 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 0 90 47 7f
+        E 56 80 47 7f
+        E 67 90 49 7f
+        E 222 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 67 90 4a 7f
+        E 223 80 4a 7f
+        E 0 90 4c 7f
+        E 56 80 4c 7f
+        E 67 90 4c 7f
+        E 167 80 4c 7f
+        E 55 90 4a 7f
+        E 123 80 4a 7f
+        E 56 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 56 90 49 7f
+        E 123 80 49 7f
+        E 55 90 4a 7f
+        E 112 80 4a 7f
+        E 55 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 4c 7f
+        E 67 80 4c 7f
+        E 56 90 4c 7f
+        E 111 80 4c 7f
+        E 56 90 4c 7f
+        E 123 80 4c 7f
+        E 55 90 4c 7f
+        E 56 80 4c 7f
+        E 56 90 4c 7f
+        E 290 80 4c 7f
+        E 55 90 4c 7f
+        E 870 80 4c 7f
+        E 0 90 4d 7f
+        E 55 80 4d 7f
+        E 112 90 28 7f
+        E 56 80 28 7f
+        E 55 90 28 7f
+        E 67 80 28 7f
+        E 167 90 3b 7f
+        E 402 80 3b 7f
+        E 178 90 4c 7f
+        E 167 80 4c 7f
+        E 67 90 4d 7f
+        E 111 80 4d 7f
+        E 0 90 4f 7f
+        E 112 80 4f 7f
+        E 56 90 4f 7f
+        E 178 80 4f 7f
+        E 0 90 4d 7f
+        E 111 80 4d 7f
+        E 56 90 4c 7f
+        E 67 80 4c 7f
+        E 56 90 4a 7f
+        E 223 80 4a 7f
+        E 67 90 48 7f
+        E 111 80 48 7f
+        E 56 90 48 7f
+        E 55 80 48 7f
+        E 0 90 47 7f
+        E 56 80 47 7f
+        E 67 90 47 7f
+        E 111 80 47 7f
+        E 56 90 48 7f
+        E 112 80 48 7f
+        E 67 90 48 7f
+        E 55 80 48 7f
+        E 56 90 48 7f
+        E 167 80 48 7f
+        E 0 90 4c 7f
+        E 234 80 4c 7f
+        E 0 90 4d 7f
+        E 56 80 4d 7f
+        E 56 90 4d 7f
+        E 234 80 4d 7f
+        E 0 90 4c 7f
+        E 234 80 4c 7f
+        E 56 90 4d 7f
+        E 234 80 4d 7f
+        E 0 90 4c 7f
+        E 401 80 4c 7f
+        E 56 90 4b 7f
+        E 55 80 4b 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 56 90 4a 7f
+        E 122 80 4a 7f
+        E 56 90 49 7f
+        E 290 80 49 7f
+        E 56 90 49 7f
+        E 111 80 49 7f
+        E 56 90 4a 7f
+        E 345 80 4a 7f
+        E 0 90 49 7f
+        E 123 80 49 7f
+        E 56 90 49 7f
+        E 167 80 49 7f
+        E 0 90 4a 7f
+        E 468 80 4a 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 0 90 4c 7f
+        E 512 80 4c 7f
+        E 0 90 4e 7f
+        E 123 80 4e 7f
+        E 56 90 4e 7f
+        E 289 80 4e 7f
+        E 56 90 4e 7f
+        E 524 80 4e 7f
+        E 0 90 4c 7f
+        E 167 80 4c 7f
+        E 112 90 4f 7f
+        E 178 80 4f 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 0 90 4a 7f
+        E 290 80 4a 7f
+        E 111 90 4a 7f
+        E 290 80 4a 7f
+        E 55 90 49 7f
+        E 402 80 49 7f
+        E 178 90 4e 7f
+        E 457 80 4e 7f
+        E 56 90 50 7f
+        E 290 80 50 7f
+        E 55 90 51 7f
+        E 234 80 51 7f
+        E 56 90 51 7f
+        E 56 80 51 7f
+        E 0 90 50 7f
+        E 67 80 50 7f
+        E 0 90 4e 7f
+        E 111 80 4e 7f
+        E 234 90 4c 7f
+        E 112 80 4c 7f
+        E 55 90 4c 7f
+        E 56 80 4c 7f
+        E 0 90 4a 7f
+        E 178 80 4a 7f
+        E 56 90 4a 7f
+        E 112 80 4a 7f
+        E 55 90 49 7f
+        E 67 80 49 7f
+        E 56 90 49 7f
+        E 56 80 49 7f
+        E 55 90 43 7f
+        E 56 80 43 7f
+        E 0 90 30 7f
+        E 123 80 30 7f
+        E 0 90 44 7f
+        E 111 80 44 7f
+        E 56 90 44 7f
+        E 290 80 44 7f
+        E 0 90 45 7f
+        E 289 80 45 7f
+        E 56 90 47 7f
+        E 112 80 47 7f
+        E 0 90 34 7f
+        E 122 80 34 7f
+        E 112 90 40 7f
+        E 111 80 40 7f
+        E 56 90 40 7f
+        E 234 80 40 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 55 90 42 7f
+        E 67 80 42 7f
+        E 56 90 42 7f
+        E 635 80 42 7f
+        E 112 90 40 7f
+        E 178 80 40 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 111 90 42 7f
+        E 401 80 42 7f
+        E 56 90 40 7f
+        E 234 80 40 7f
+        E 0 90 42 7f
+        E 112 80 42 7f
+        E 67 90 42 7f
+        E 401 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 55 90 40 7f
+        E 234 80 40 7f
+        E 0 90 42 7f
+        E 112 80 42 7f
+        E 56 90 42 7f
+        E 401 80 42 7f
+        E 0 90 40 7f
+        E 67 80 40 7f
+        E 55 90 2d 7f
+        E 112 80 2d 7f
+        E 0 90 2e 7f
+        E 56 80 2e 7f
+        E 234 90 42 7f
+        E 345 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 40 7f
+        E 56 80 40 7f
+        E 55 90 40 7f
+        E 290 80 40 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 178 90 42 7f
+        E 401 80 42 7f
+        E 56 90 40 7f
+        E 234 80 40 7f
+        E 0 90 42 7f
+        E 112 80 42 7f
+        E 122 90 2f 7f
+        E 56 80 2f 7f
+        E 0 90 42 7f
+        E 345 80 42 7f
+        E 112 90 40 7f
+        E 234 80 40 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 42 7f
+        E 55 80 42 7f
+        E 56 90 42 7f
+        E 401 80 42 7f
+        E 123 90 40 7f
+        E 223 80 40 7f
+        E 0 90 42 7f
+        E 123 80 42 7f
+        E 167 90 42 7f
+        E 412 80 42 7f
+        E 56 90 40 7f
+        E 167 80 40 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 122 90 42 7f
+        E 112 80 42 7f
+        E 0 90 40 7f
+        E 111 80 40 7f
+        E 67 90 41 7f
+        E 56 80 41 7f
+        E 0 90 42 7f
+        E 223 80 42 7f
+        E 122 90 44 7f
+        E 112 80 44 7f
+        E 56 90 44 7f
+        E 122 80 44 7f
+        E 56 90 44 7f
+        E 56 80 44 7f
+        E 0 90 45 7f
+        E 55 80 45 7f
+        E 56 90 45 7f
+        E 123 80 45 7f
+        E 0 90 44 7f
+        E 167 80 44 7f
+        E 56 90 47 7f
+        E 55 80 47 7f
+        E 67 90 47 7f
+        E 56 80 47 7f
+        E 56 90 34 7f
+        E 55 80 34 7f
+        E 112 90 49 7f
+        E 67 80 49 7f
+        E 55 90 49 7f
+        E 112 80 49 7f
+        E 178 90 4a 7f
+        E 112 80 4a 7f
+        E 111 90 49 7f
+        E 56 80 49 7f
+        E 67 90 49 7f
+        E 55 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 56 90 4b 7f
+        E 56 80 4b 7f
+        E 55 90 4d 7f
+        E 123 80 4d 7f
+        E 345 90 4e 7f
+        E 168 80 4e 7f
+        E 234 90 4e 7f
+        E 111 80 4e 7f
+        E 1037 90 4f 7f
+        E 55 80 4f 7f
+        E 0 90 4e 7f
+        E 67 80 4e 7f
+        E 56 90 4e 7f
+        E 167 80 4e 7f
+        E 0 90 50 7f
+        E 123 80 50 7f
+        E 56 90 50 7f
+        E 111 80 50 7f
+        E 56 90 50 7f
+        E 122 80 50 7f
+        E 0 90 51 7f
+        E 168 80 51 7f
+        E 55 90 51 7f
+        E 56 80 51 7f
+        E 67 90 51 7f
+        E 111 80 51 7f
+        E 56 90 4e 7f
+        E 401 80 4e 7f
+        E 580 90 4e 7f
+        E 234 80 4e 7f
+        E 0 90 50 7f
+        E 56 80 50 7f
+        E 111 90 50 7f
+        E 178 80 50 7f
+        E 56 90 51 7f
+        E 112 80 51 7f
+        E 122 90 51 7f
+        E 56 80 51 7f
+        E 0 90 4e 7f
+        E 56 80 4e 7f
+        E 0 90 3b 7f
+        E 167 80 3b 7f
+        E 0 90 4e 7f
+        E 67 80 4e 7f
+        E 55 90 39 7f
+        E 56 80 39 7f
+        E 580 90 4c 7f
+        E 111 80 4c 7f
+        E 0 90 4d 7f
+        E 167 80 4d 7f
+        E 123 90 4a 7f
+        E 167 80 4a 7f
+        E 56 90 4a 7f
+        E 123 80 4a 7f
+        E 111 90 49 7f
+        E 1148 80 49 7f
+        E 0 90 4a 7f
+        E 67 80 4a 7f
+        E 56 90 49 7f
+        E 289 80 49 7f
+        E 0 90 4a 7f
+        E 168 80 4a 7f
+        E 0 90 4c 7f
+        E 289 80 4c 7f
+        E 56 90 4e 7f
+        E 290 80 4e 7f
+        E 0 90 50 7f
+        E 167 80 50 7f
+        E 67 90 50 7f
+        E 111 80 50 7f
+        E 56 90 51 7f
+        E 56 80 51 7f
+        E 122 90 51 7f
+        E 457 80 51 7f
+        E 56 90 51 7f
+        E 290 80 51 7f
+        E 0 90 50 7f
+        E 167 80 50 7f
+        E 67 90 50 7f
+        E 167 80 50 7f
+        E 0 90 51 7f
+        E 178 80 51 7f
+        E 56 90 51 7f
+        E 401 80 51 7f
+        E 56 90 51 7f
+        E 290 80 51 7f
+        E 56 90 4f 7f
+        E 122 80 4f 7f
+        E 0 90 50 7f
+        E 223 80 50 7f
+        E 123 90 50 7f
+        E 167 80 50 7f
+        E 0 90 51 7f
+        E 56 80 51 7f
+        E 55 90 51 7f
+        E 179 80 51 7f
+        E 55 90 53 7f
+        E 179 80 53 7f
+        E 56 90 53 7f
+        E 55 80 53 7f
+        E 0 90 51 7f
+        E 56 80 51 7f
+        E 56 90 51 7f
+        E 55 80 51 7f
+        E 123 90 4f 7f
+        E 111 80 4f 7f
+        E 56 90 4e 7f
+        E 179 80 4e 7f
+        E 0 90 4d 7f
+        E 55 80 4d 7f
+        E 112 90 4c 7f
+        E 178 80 4c 7f
+        E 0 90 4e 7f
+        E 56 80 4e 7f
+        E 0 90 4a 7f
+        E 167 80 4a 7f
+        E 0 90 56 7f
+        E 178 80 56 7f
+        E 56 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 67 90 49 7f
+        E 112 80 49 7f
+        E 56 90 49 7f
+        E 55 80 49 7f
+        E 56 90 49 7f
+        E 123 80 49 7f
+        E 0 90 48 7f
+        E 55 80 48 7f
+        E 0 90 47 7f
+        E 112 80 47 7f
+        E 56 90 47 7f
+        E 178 80 47 7f
+        E 56 90 45 7f
+        E 111 80 45 7f
+        E 67 90 45 7f
+        E 111 80 45 7f
+        E 56 90 45 7f
+        E 56 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 66 90 44 7f
+        E 112 80 44 7f
+        E 56 90 44 7f
+        E 55 80 44 7f
+        E 123 90 42 7f
+        E 223 80 42 7f
+        E 234 90 40 7f
+        E 56 80 40 7f
+        E 0 90 3e 7f
+        E 55 80 3e 7f
+        E 123 90 3e 7f
+        E 167 80 3e 7f
+        E 56 90 3d 7f
+        E 178 80 3d 7f
+        E 56 90 3d 7f
+        E 56 80 3d 7f
+        E 178 90 3b 7f
+        E 111 80 3b 7f
+        E 56 90 3b 7f
+        E 123 80 3b 7f
+        E 55 90 3b 7f
+        E 56 80 3b 7f
+        E 0 90 3a 7f
+        E 56 80 3a 7f
+        E 56 90 39 7f
+        E 524 80 39 7f
+        E 0 90 38 7f
+        E 55 80 38 7f
+        E 56 90 38 7f
+        E 580 80 38 7f
+        E 0 90 37 7f
+        E 55 80 37 7f
+        E 0 90 36 7f
+        E 167 80 36 7f
+        E 67 90 36 7f
+        E 513 80 36 7f
+        E 0 90 37 7f
+        E 56 80 37 7f
+        E 0 90 36 7f
+        E 178 80 36 7f
+        E 56 90 36 7f
+        E 56 80 36 7f
+        E 0 90 37 7f
+        E 111 80 37 7f
+        E 0 90 36 7f
+        E 234 80 36 7f
+        E 0 90 37 7f
+        E 111 80 37 7f
+        E 0 90 36 7f
+        E 67 80 36 7f
+        E 56 90 36 7f
+        E 112 80 36 7f
+        E 0 90 37 7f
+        E 111 80 37 7f
+        E 0 90 36 7f
+        E 178 80 36 7f
+        E 56 90 37 7f
+        E 178 80 37 7f
+        E 0 90 36 7f
+        E 112 80 36 7f
+        E 111 90 34 7f
+        E 234 80 34 7f
+        E 112 90 34 7f
+        E 290 80 34 7f
+        E 111 90 35 7f
+        E 123 80 35 7f
+        E 0 90 34 7f
+        E 401 80 34 7f
+        E 111 90 34 7f
+        E 636 80 34 7f
+        E 55 90 34 7f
+        E 524 80 34 7f
+        E 112 90 34 7f
+        E 457 80 34 7f
+        E 67 90 34 7f
+        E 512 80 34 7f
+        E 123 90 36 7f
+        E 56 80 36 7f
+        E 0 90 37 7f
+        E 289 80 37 7f
+        E 0 90 35 7f
+        E 56 80 35 7f
+        E 0 90 33 7f
+        E 112 80 33 7f
+        E 0 90 32 7f
+        E 234 80 32 7f
+        E 111 90 32 7f
+        E 635 80 32 7f
+        E 56 90 32 7f
+        E 635 80 32 7f
+        E 112 90 32 7f
+        E 524 80 32 7f
+        E 55 90 32 7f
+        E 636 80 32 7f
+        E 111 90 32 7f
+        E 580 80 32 7f
+        E 55 90 32 7f
+        E 457 80 32 7f
+        E 56 90 31 7f
+        E 524 80 31 7f
+        E 0 90 32 7f
+        E 56 80 32 7f
+        E 55 90 31 7f
+        E 346 80 31 7f
+        E 56 90 34 7f
+        E 234 80 34 7f
+        E 0 90 35 7f
+        E 55 80 35 7f
+        E 56 90 36 7f
+        E 179 80 36 7f
+        E 0 90 38 7f
+        E 111 80 38 7f
+        E 56 90 38 7f
+        E 67 80 38 7f
+        E 0 90 39 7f
+        E 55 80 39 7f
+        E 56 90 39 7f
+        E 56 80 39 7f
+        E 234 90 3b 7f
+        E 111 80 3b 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 67 90 3d 7f
+        E 56 80 3d 7f
+        E 55 90 3e 7f
+        E 234 80 3e 7f
+        E 112 90 40 7f
+        E 290 80 40 7f
+        E 55 90 42 7f
+        E 168 80 42 7f
+        E 66 90 42 7f
+        E 112 80 42 7f
+        E 0 90 43 7f
+        E 167 80 43 7f
+        E 0 90 42 7f
+        E 524 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 55 90 40 7f
+        E 179 80 40 7f
+        E 0 90 42 7f
+        E 568 80 42 7f
+        E 234 90 45 7f
+        E 290 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 0 90 46 7f
+        E 55 80 46 7f
+        E 56 90 38 7f
+        E 178 80 38 7f
+        E 56 90 4a 7f
+        E 179 80 4a 7f
+        E 111 90 44 7f
+        E 401 80 44 7f
+        E 112 90 44 7f
+        E 289 80 44 7f
+        E 0 90 45 7f
+        E 123 80 45 7f
+        E 112 90 45 7f
+        E 234 80 45 7f
+        E 0 90 44 7f
+        E 568 80 44 7f
+        E 0 90 31 7f
+        E 56 80 31 7f
+        E 0 90 44 7f
+        E 67 80 44 7f
+        E 55 90 32 7f
+        E 402 80 32 7f
+        E 55 90 25 7f
+        E 179 80 25 7f
+        E 0 90 38 7f
+        E 635 80 38 7f
+        E 56 90 32 7f
+        E 512 80 32 7f
+        E 0 90 25 7f
+        E 234 80 25 7f
+        E 0 90 38 7f
+        E 112 80 38 7f
+        E 122 90 36 7f
+        E 346 80 36 7f
+        E 0 90 38 7f
+        E 111 80 38 7f
+        E 112 90 38 7f
+        E 290 80 38 7f
+        E 178 90 3b 7f
+        E 279 80 3b 7f
+        E 0 90 3c 7f
+        E 67 80 3c 7f
+        E 0 90 3d 7f
+        E 55 80 3d 7f
+        E 0 90 2f 7f
+        E 56 80 2f 7f
+        E 0 90 3d 7f
+        E 401 80 3d 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 123 90 40 7f
+        E 345 80 40 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 55 90 42 7f
+        E 290 80 42 7f
+        E 167 90 44 7f
+        E 691 80 44 7f
+        E 235 90 45 7f
+        E 111 80 45 7f
+        E 178 90 44 7f
+        E 56 80 44 7f
+        E 56 90 44 7f
+        E 56 80 44 7f
+        E 0 90 45 7f
+        E 55 80 45 7f
+        E 67 90 45 7f
+        E 56 80 45 7f
+        E 111 90 47 7f
+        E 179 80 47 7f
+        E 0 90 46 7f
+        E 55 80 46 7f
+        E 0 90 3b 7f
+        E 168 80 3b 7f
+        E 55 90 4a 7f
+        E 67 80 4a 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 56 90 4c 7f
+        E 111 80 4c 7f
+        E 56 90 4a 7f
+        E 67 80 4a 7f
+        E 55 90 3d 7f
+        E 56 80 3d 7f
+        E 0 90 49 7f
+        E 112 80 49 7f
+        E 0 90 47 7f
+        E 122 80 47 7f
+        E 56 90 47 7f
+        E 111 80 47 7f
+        E 56 90 45 7f
+        E 178 80 45 7f
+        E 0 90 44 7f
+        E 112 80 44 7f
+        E 56 90 42 7f
+        E 66 80 42 7f
+        E 56 90 42 7f
+        E 112 80 42 7f
+        E 55 90 42 7f
+        E 346 80 42 7f
+        E 56 90 42 7f
+        E 122 80 42 7f
+        E 56 90 42 7f
+        E 167 80 42 7f
+        E 67 90 42 7f
+        E 56 80 42 7f
+        E 0 90 43 7f
+        E 111 80 43 7f
+        E 0 90 42 7f
+        E 401 80 42 7f
+        E 56 90 40 7f
+        E 346 80 40 7f
+        E 0 90 42 7f
+        E 67 80 42 7f
+        E 1036 90 2e 7f
+        E 56 80 2e 7f
+        E 56 90 42 7f
+        E 289 80 42 7f
+        E 0 90 40 7f
+        E 56 80 40 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 56 90 45 7f
+        E 55 80 45 7f
+        E 67 90 47 7f
+        E 56 80 47 7f
+        E 635 90 40 7f
+        E 346 80 40 7f
+        E 969 90 42 7f
+        E 413 80 42 7f
+        E 167 90 32 7f
+        E 234 80 32 7f
+        E 457 90 40 7f
+        E 401 80 40 7f
+        E 413 90 32 7f
+        E 167 80 32 7f
+        E 234 90 42 7f
+        E 401 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 691 90 40 7f
+        E 345 80 40 7f
+        E 0 90 42 7f
+        E 112 80 42 7f
+        E 67 90 42 7f
+        E 278 80 42 7f
+        E 0 90 41 7f
+        E 67 80 41 7f
+        E 56 90 44 7f
+        E 167 80 44 7f
+        E 0 90 45 7f
+        E 178 80 45 7f
+        E 56 90 44 7f
+        E 112 80 44 7f
+        E 55 90 45 7f
+        E 179 80 45 7f
+        E 0 90 47 7f
+        E 55 80 47 7f
+        E 0 90 34 7f
+        E 56 80 34 7f
+        E 0 90 47 7f
+        E 178 80 47 7f
+        E 0 90 49 7f
+        E 56 80 49 7f
+        E 56 90 4a 7f
+        E 111 80 4a 7f
+        E 67 90 4c 7f
+        E 112 80 4c 7f
+        E 55 90 4c 7f
+        E 56 80 4c 7f
+        E 0 90 4a 7f
+        E 123 80 4a 7f
+        E 223 90 3b 7f
+        E 55 80 3b 7f
+        E 0 90 47 7f
+        E 67 80 47 7f
+        E 56 90 34 7f
+        E 56 80 34 7f
+        E 0 90 47 7f
+        E 55 80 47 7f
+        E 56 90 32 7f
+        E 56 80 32 7f
+        E 0 90 45 7f
+        E 122 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 0 90 37 7f
+        E 56 80 37 7f
+        E 0 90 42 7f
+        E 401 80 42 7f
+        E 0 90 40 7f
+        E 178 80 40 7f
+        E 56 90 3d 7f
+        E 112 80 3d 7f
+        E 55 90 3d 7f
+        E 67 80 3d 7f
+        E 0 90 3e 7f
+        E 56 80 3e 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 0 90 3b 7f
+        E 111 80 3b 7f
+        E 0 90 3d 7f
+        E 123 80 3d 7f
+        E 55 90 3d 7f
+        E 168 80 3d 7f
+        E 0 90 3b 7f
+        E 234 80 3b 7f
+        E 55 90 39 7f
+        E 290 80 39 7f
+        E 0 90 38 7f
+        E 290 80 38 7f
+        E 0 90 36 7f
+        E 56 80 36 7f
+        E 55 90 36 7f
+        E 179 80 36 7f
+        E 223 90 34 7f
+        E 67 80 34 7f
+        E 55 90 34 7f
+        E 112 80 34 7f
+        E 0 90 33 7f
+        E 111 80 33 7f
+        E 67 90 32 7f
+        E 56 80 32 7f
+        E 56 90 32 7f
+        E 512 80 32 7f
+        E 0 90 31 7f
+        E 67 80 31 7f
+        E 56 90 31 7f
+        E 2363 80 31 7f
+        E 167 90 36 7f
+        E 869 80 36 7f
+        E 112 90 38 7f
+        E 457 80 38 7f
+        E 55 90 39 7f
+        E 926 80 39 7f
+        E 55 90 38 7f
+        E 468 80 38 7f
+        E 0 90 36 7f
+        E 56 80 36 7f
+        E 112 90 36 7f
+        E 178 80 36 7f
+        E 0 90 38 7f
+        E 223 80 38 7f
+        E 0 90 39 7f
+        E 234 80 39 7f
+        E 0 90 3c 7f
+        E 56 80 3c 7f
+        E 122 90 3b 7f
+        E 279 80 3b 7f
+        E 0 90 3d 7f
+        E 67 80 3d 7f
+        E 55 90 3d 7f
+        E 346 80 3d 7f
+        E 111 90 3d 7f
+        E 179 80 3d 7f
+        E 223 90 40 7f
+        E 1036 80 40 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 0 90 43 7f
+        E 67 80 43 7f
+        E 111 90 42 7f
+        E 858 80 42 7f
+        E 0 90 43 7f
+        E 67 80 43 7f
+        E 1728 90 44 7f
+        E 111 80 44 7f
+        E 0 90 45 7f
+        E 167 80 45 7f
+        E 67 90 45 7f
+        E 56 80 45 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 0 90 47 7f
+        E 178 80 47 7f
+        E 56 90 47 7f
+        E 167 80 47 7f
+        E 56 90 49 7f
+        E 122 80 49 7f
+        E 56 90 4a 7f
+        E 112 80 4a 7f
+        E 55 90 4c 7f
+        E 346 80 4c 7f
+        E 0 90 49 7f
+        E 67 80 49 7f
+        E 0 90 3b 7f
+        E 111 80 3b 7f
+        E 56 90 47 7f
+        E 111 80 47 7f
+        E 67 90 47 7f
+        E 56 80 47 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 55 90 45 7f
+        E 112 80 45 7f
+        E 0 90 44 7f
+        E 122 80 44 7f
+        E 0 90 42 7f
+        E 168 80 42 7f
+        E 289 90 42 7f
+        E 803 80 42 7f
+        E 0 90 40 7f
+        E 67 80 40 7f
+        E 56 90 40 7f
+        E 401 80 40 7f
+        E 0 90 41 7f
+        E 55 80 41 7f
+        E 0 90 42 7f
+        E 56 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 34 7f
+        E 234 80 34 7f
+        E 56 90 40 7f
+        E 178 80 40 7f
+        E 111 90 28 7f
+        E 56 80 28 7f
+        E 234 90 37 7f
+        E 234 80 37 7f
+        E 223 90 38 7f
+        E 179 80 38 7f
+        E 0 90 39 7f
+        E 222 80 39 7f
+        E 0 90 38 7f
+        E 67 80 38 7f
+        E 0 90 2c 7f
+        E 112 80 2c 7f
+        E 925 90 36 7f
+        E 56 80 36 7f
+        E 0 90 49 7f
+        E 111 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 122 90 4a 7f
+        E 346 80 4a 7f
+        E 111 90 44 7f
+        E 346 80 44 7f
+        E 0 90 45 7f
+        E 55 80 45 7f
+        E 67 90 45 7f
+        E 401 80 45 7f
+        E 0 90 44 7f
+        E 457 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 0 90 42 7f
+        E 346 80 42 7f
+        E 0 90 41 7f
+        E 55 80 41 7f
+        E 123 90 40 7f
+        E 401 80 40 7f
+        E 112 90 42 7f
+        E 345 80 42 7f
+        E 56 90 44 7f
+        E 468 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 167 90 43 7f
+        E 123 80 43 7f
+        E 635 90 4c 7f
+        E 345 80 4c 7f
+        E 112 90 4b 7f
+        E 457 80 4b 7f
+        E 122 90 49 7f
+        E 279 80 49 7f
+        E 67 90 49 7f
+        E 345 80 49 7f
+        E 0 90 4b 7f
+        E 56 80 4b 7f
+        E 0 90 4c 7f
+        E 112 80 4c 7f
+        E 0 90 47 7f
+        E 345 80 47 7f
+        E 178 90 4f 7f
+        E 279 80 4f 7f
+        E 123 90 4f 7f
+        E 401 80 4f 7f
+        E 111 90 4a 7f
+        E 290 80 4a 7f
+        E 0 90 49 7f
+        E 56 80 49 7f
+        E 123 90 45 7f
+        E 401 80 45 7f
+        E 0 90 44 7f
+        E 345 80 44 7f
+        E 167 90 44 7f
+        E 469 80 44 7f
+        E 111 90 3e 7f
+        E 1148 80 3e 7f
+        E 123 90 3e 7f
+        E 345 80 3e 7f
+        E 0 90 40 7f
+        E 513 80 40 7f
+        E 56 90 3e 7f
+        E 66 80 3e 7f
+        E 56 90 42 7f
+        E 223 80 42 7f
+        E 0 90 44 7f
+        E 123 80 44 7f
+        E 55 90 44 7f
+        E 457 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 67 90 45 7f
+        E 568 80 45 7f
+        E 0 90 46 7f
+        E 123 80 46 7f
+        E 0 90 47 7f
+        E 111 80 47 7f
+        E 0 90 48 7f
+        E 112 80 48 7f
+        E 524 90 4c 7f
+        E 401 80 4c 7f
+        E 524 90 4c 7f
+        E 401 80 4c 7f
+        E 112 90 4e 7f
+        E 579 80 4e 7f
+        E 0 90 28 7f
+        E 56 80 28 7f
+        E 0 90 4e 7f
+        E 56 80 4e 7f
+        E 0 90 28 7f
+        E 55 80 28 7f
+        E 0 90 4d 7f
+        E 56 80 4d 7f
+        E 0 90 4e 7f
+        E 67 80 4e 7f
+        E 111 90 4c 7f
+        E 234 80 4c 7f
+        E 0 90 4e 7f
+        E 112 80 4e 7f
+        E 56 90 4e 7f
+        E 345 80 4e 7f
+        E 0 90 4d 7f
+        E 56 80 4d 7f
+        E 0 90 4c 7f
+        E 178 80 4c 7f
+        E 167 90 4a 7f
+        E 346 80 4a 7f
+        E 56 90 49 7f
+        E 66 80 49 7f
+        E 56 90 37 7f
+        E 112 80 37 7f
+        E 111 90 45 7f
+        E 758 80 45 7f
+        E 0 90 44 7f
+        E 111 80 44 7f
+        E 56 90 44 7f
+        E 290 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 111 90 45 7f
+        E 346 80 45 7f
+        E 0 90 44 7f
+        E 579 80 44 7f
+        E 56 90 44 7f
+        E 401 80 44 7f
+        E 67 90 45 7f
+        E 401 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 56 90 42 7f
+        E 468 80 42 7f
+        E 0 90 43 7f
+        E 223 80 43 7f
+        E 0 90 42 7f
+        E 579 80 42 7f
+        E 56 90 42 7f
+        E 290 80 42 7f
+        E 0 90 44 7f
+        E 167 80 44 7f
+        E 67 90 44 7f
+        E 223 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 66 90 45 7f
+        E 168 80 45 7f
+        E 178 90 47 7f
+        E 223 80 47 7f
+        E 56 90 49 7f
+        E 122 80 49 7f
+        E 56 90 49 7f
+        E 111 80 49 7f
+        E 56 90 4a 7f
+        E 178 80 4a 7f
+        E 112 90 4c 7f
+        E 122 80 4c 7f
+        E 112 90 4e 7f
+        E 401 80 4e 7f
+        E 0 90 4d 7f
+        E 56 80 4d 7f
+        E 691 90 2c 7f
+        E 234 80 2c 7f
+        E 0 90 25 7f
+        E 56 80 25 7f
+        E 55 90 2b 7f
+        E 56 80 2b 7f
+        E 580 90 3e 7f
+        E 55 80 3e 7f
+        E 0 90 26 7f
+        E 636 80 26 7f
+        E 0 90 3e 7f
+        E 290 80 3e 7f
+        E 55 90 26 7f
+        E 112 80 26 7f
+        E 635 90 32 7f
+        E 67 80 32 7f
+        E 56 90 32 7f
+        E 55 80 32 7f
+        E 56 90 32 7f
+        E 56 80 32 7f
+        E 56 90 32 7f
+        E 234 80 32 7f
+        E 457 90 4c 7f
+        E 635 80 4c 7f
+        E 178 90 49 7f
+        E 56 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 0 90 49 7f
+        E 401 80 49 7f
+        E 178 90 4a 7f
+        E 401 80 4a 7f
+        E 0 90 45 7f
+        E 1204 80 45 7f
+        E 0 90 44 7f
+        E 67 80 44 7f
+        E 0 90 43 7f
+        E 167 80 43 7f
+        E 179 90 44 7f
+        E 55 80 44 7f
+        E 223 90 26 7f
+        E 67 80 26 7f
+        E 0 90 39 7f
+        E 112 80 39 7f
+        E 691 90 2d 7f
+        E 55 80 2d 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 178 90 26 7f
+        E 569 80 26 7f
+        E 0 90 42 7f
+        E 122 80 42 7f
+        E 0 90 2a 7f
+        E 56 80 2a 7f
+        E 0 90 26 7f
+        E 56 80 26 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 0 90 3e 7f
+        E 178 80 3e 7f
+        E 0 90 3d 7f
+        E 111 80 3d 7f
+        E 346 90 32 7f
+        E 925 80 32 7f
+        E 401 90 4c 7f
+        E 401 80 4c 7f
+        E 0 90 31 7f
+        E 56 80 31 7f
+        E 123 90 49 7f
+        E 457 80 49 7f
+        E 0 90 48 7f
+        E 55 80 48 7f
+        E 0 90 26 7f
+        E 56 80 26 7f
+        E 0 90 31 7f
+        E 67 80 31 7f
+        E 0 90 32 7f
+        E 56 80 32 7f
+        E 0 90 33 7f
+        E 56 80 33 7f
+        E 289 90 45 7f
+        E 457 80 45 7f
+        E 0 90 44 7f
+        E 402 80 44 7f
+        E 55 90 45 7f
+        E 123 80 45 7f
+        E 56 90 45 7f
+        E 345 80 45 7f
+        E 56 90 32 7f
+        E 178 80 32 7f
+        E 56 90 26 7f
+        E 56 80 26 7f
+        E 167 90 26 7f
+        E 635 80 26 7f
+        E 0 90 38 7f
+        E 56 80 38 7f
+        E 0 90 39 7f
+        E 579 80 39 7f
+        E 56 90 26 7f
+        E 691 80 26 7f
+        E 0 90 39 7f
+        E 56 80 39 7f
+        E 67 90 39 7f
+        E 55 80 39 7f
+        E 636 90 4e 7f
+        E 747 80 4e 7f
+        E 234 90 4c 7f
+        E 111 80 4c 7f
+        E 167 90 4c 7f
+        E 346 80 4c 7f
+        E 0 90 36 7f
+        E 67 80 36 7f
+        E 167 90 49 7f
+        E 290 80 49 7f
+        E 167 90 47 7f
+        E 468 80 47 7f
+        E 56 90 45 7f
+        E 55 80 45 7f
+        E 0 90 46 7f
+        E 290 80 46 7f
+        E 112 90 45 7f
+        E 345 80 45 7f
+        E 0 90 44 7f
+        E 56 80 44 7f
+        E 178 90 42 7f
+        E 691 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 56 90 37 7f
+        E 55 80 37 7f
+        E 67 90 37 7f
+        E 56 80 37 7f
+        E 56 90 37 7f
+        E 55 80 37 7f
+        E 56 90 26 7f
+        E 56 80 26 7f
+        E 67 90 26 7f
+        E 167 80 26 7f
+        E 0 90 38 7f
+        E 56 80 38 7f
+        E 0 90 39 7f
+        E 980 80 39 7f
+        E 112 90 2d 7f
+        E 579 80 2d 7f
+        E 56 90 39 7f
+        E 123 80 39 7f
+        E 0 90 26 7f
+        E 56 80 26 7f
+        E 0 90 39 7f
+        E 512 80 39 7f
+        E 0 90 49 7f
+        E 67 80 49 7f
+        E 0 90 36 7f
+        E 513 80 36 7f
+        E 0 90 3b 7f
+        E 56 80 3b 7f
+        E 0 90 4e 7f
+        E 55 80 4e 7f
+        E 234 90 4c 7f
+        E 234 80 4c 7f
+        E 112 90 32 7f
+        E 56 80 32 7f
+        E 0 90 49 7f
+        E 468 80 49 7f
+        E 0 90 48 7f
+        E 55 80 48 7f
+        E 457 90 44 7f
+        E 402 80 44 7f
+        E 0 90 45 7f
+        E 55 80 45 7f
+        E 67 90 45 7f
+        E 112 80 45 7f
+        E 0 90 46 7f
+        E 289 80 46 7f
+        E 0 90 45 7f
+        E 457 80 45 7f
+        E 457 90 26 7f
+        E 123 80 26 7f
+        E 223 90 32 7f
+        E 122 80 32 7f
+        E 112 90 45 7f
+        E 457 80 45 7f
+        E 67 90 42 7f
+        E 345 80 42 7f
+        E 0 90 26 7f
+        E 346 80 26 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 0 90 3f 7f
+        E 55 80 3f 7f
+        E 0 90 3e 7f
+        E 346 80 3e 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 0 90 3e 7f
+        E 55 80 3e 7f
+        E 0 90 41 7f
+        E 468 80 41 7f
+        E 0 90 42 7f
+        E 457 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 56 90 41 7f
+        E 290 80 41 7f
+        E 0 90 42 7f
+        E 345 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 290 90 44 7f
+        E 289 80 44 7f
+        E 0 90 43 7f
+        E 56 80 43 7f
+        E 56 90 44 7f
+        E 67 80 44 7f
+        E 55 90 41 7f
+        E 457 80 41 7f
+        E 56 90 3d 7f
+        E 691 80 3d 7f
+        E 56 90 2d 7f
+        E 67 80 2d 7f
+        E 111 90 40 7f
+        E 457 80 40 7f
+        E 0 90 41 7f
+        E 580 80 41 7f
+        E 0 90 42 7f
+        E 401 80 42 7f
+        E 580 90 4b 7f
+        E 111 80 4b 7f
+        E 0 90 4a 7f
+        E 234 80 4a 7f
+        E 112 90 47 7f
+        E 401 80 47 7f
+        E 0 90 46 7f
+        E 122 80 46 7f
+        E 0 90 42 7f
+        E 803 80 42 7f
+        E 0 90 37 7f
+        E 111 80 37 7f
+        E 67 90 4e 7f
+        E 970 80 4e 7f
+        E 0 90 4d 7f
+        E 67 80 4d 7f
+        E 55 90 37 7f
+        E 56 80 37 7f
+        E 112 90 4a 7f
+        E 925 80 4a 7f
+        E 0 90 49 7f
+        E 512 80 49 7f
+        E 67 90 46 7f
+        E 2296 80 46 7f
+        E 925 90 3e 7f
+        E 56 80 3e 7f
+        E 0 90 3d 7f
+        E 112 80 3d 7f
+        E 289 90 3b 7f
+        E 56 80 3b 7f
+        E 412 90 40 7f
+        E 112 80 40 7f
+        E 111 90 39 7f
+        E 123 80 39 7f
+        E 111 90 3e 7f
+        E 402 80 3e 7f
+        E 0 90 3d 7f
+        E 55 80 3d 7f
+        E 0 90 3e 7f
+        E 123 80 3e 7f
+        E 56 90 3e 7f
+        E 111 80 3e 7f
+        E 0 90 2b 7f
+        E 56 80 2b 7f
+        E 691 90 2d 7f
+        E 345 80 2d 7f
+        E 67 90 2d 7f
+        E 112 80 2d 7f
+        E 167 90 44 7f
+        E 468 80 44 7f
+        E 56 90 25 7f
+        E 111 80 25 7f
+        E 0 90 41 7f
+        E 401 80 41 7f
+        E 0 90 29 7f
+        E 123 80 29 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 0 90 25 7f
+        E 178 80 25 7f
+        E 0 90 2a 7f
+        E 56 80 2a 7f
+        E 568 90 40 7f
+        E 290 80 40 7f
+        E 0 90 41 7f
+        E 524 80 41 7f
+        E 0 90 40 7f
+        E 55 80 40 7f
+        E 0 90 41 7f
+        E 402 80 41 7f
+        E 0 90 42 7f
+        E 234 80 42 7f
+        E 0 90 41 7f
+        E 55 80 41 7f
+        E 168 90 37 7f
+        E 178 80 37 7f
+        E 111 90 4a 7f
+        E 691 80 4a 7f
+        E 123 90 47 7f
+        E 457 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 0 90 42 7f
+        E 813 80 42 7f
+        E 56 90 4e 7f
+        E 401 80 4e 7f
+        E 112 90 4a 7f
+        E 579 80 4a 7f
+        E 0 90 49 7f
+        E 290 80 49 7f
+        E 167 90 46 7f
+        E 691 80 46 7f
+        E 346 90 28 7f
+        E 178 80 28 7f
+        E 167 90 2a 7f
+        E 1327 80 2a 7f
+        E 0 90 3e 7f
+        E 55 80 3e 7f
+        E 524 90 2d 7f
+        E 569 80 2d 7f
+        E 67 90 45 7f
+        E 345 80 45 7f
+        E 111 90 42 7f
+        E 457 80 42 7f
+        E 67 90 3e 7f
+        E 279 80 3e 7f
+        E 0 90 3d 7f
+        E 178 80 3d 7f
+        E 2530 90 44 7f
+        E 290 80 44 7f
+        E 0 90 45 7f
+        E 56 80 45 7f
+        E 122 90 41 7f
+        E 457 80 41 7f
+        E 0 90 3d 7f
+        E 457 80 3d 7f
+        E 179 90 2b 7f
+        E 55 80 2b 7f
+        E 290 90 40 7f
+        E 290 80 40 7f
+        E 0 90 41 7f
+        E 401 80 41 7f
+        E 0 90 40 7f
+        E 167 80 40 7f
+        E 1104 90 4a 7f
+        E 345 80 4a 7f
+        E 168 90 47 7f
+        E 289 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 112 90 42 7f
+        E 289 80 42 7f
+        E 234 90 4e 7f
+        E 457 80 4e 7f
+        E 0 90 4d 7f
+        E 56 80 4d 7f
+        E 468 90 4a 7f
+        E 401 80 4a 7f
+        E 0 90 49 7f
+        E 346 80 49 7f
+        E 234 90 46 7f
+        E 1895 80 46 7f
+        E 111 90 47 7f
+        E 1795 80 47 7f
+        E 0 90 46 7f
+        E 111 80 46 7f
+        E 580 90 45 7f
+        E 345 80 45 7f
+        E 0 90 42 7f
+        E 569 80 42 7f
+        E 66 90 3e 7f
+        E 346 80 3e 7f
+        E 0 90 3d 7f
+        E 56 80 3d 7f
+        E 0 90 3e 7f
+        E 55 80 3e 7f
+        E 0 90 26 7f
+        E 56 80 26 7f
+        E 0 90 3e 7f
+        E 635 80 3e 7f
+        E 1784 90 44 7f
+        E 401 80 44 7f
+        E 56 90 2e 7f
+        E 67 80 2e 7f
+        E 0 90 35 7f
+        E 111 80 35 7f
+        E 0 90 41 7f
+        E 112 80 41 7f
+        E 0 90 35 7f
+        E 55 80 35 7f
+        E 123 90 3d 7f
+        E 457 80 3d 7f
+        E 2474 90 4a 7f
+        E 234 80 4a 7f
+        E 234 90 47 7f
+        E 290 80 47 7f
+        E 0 90 46 7f
+        E 56 80 46 7f
+        E 55 90 42 7f
+        E 346 80 42 7f
+        E 167 90 4e 7f
+        E 413 80 4e 7f
+        E 111 90 4a 7f
+        E 513 80 4a 7f
+        E 0 90 49 7f
+        E 290 80 49 7f
+        E 0 90 4b 7f
+        E 55 80 4b 7f
+        E 0 90 4d 7f
+        E 67 80 4d 7f
+        E 112 90 46 7f
+        E 401 80 46 7f
+        E 0 90 47 7f
+        E 1148 80 47 7f
+        E 0 90 46 7f
+        E 67 80 46 7f
+        E 223 90 3d 7f
+        E 55 80 3d 7f
+        E 0 90 2a 7f
+        E 346 80 2a 7f
+        E 67 90 3a 7f
+        E 55 80 3a 7f
+        E 0 90 33 7f
+        E 56 80 33 7f
+        E 0 90 3a 7f
+        E 112 80 3a 7f
+        E 0 90 2a 7f
+        E 55 80 2a 7f
+        E 0 90 33 7f
+        E 67 80 33 7f
+        E 0 90 2a 7f
+        E 56 80 2a 7f
+        E 0 90 3a 7f
+        E 56 80 3a 7f
+        E 0 90 2a 7f
+        E 55 80 2a 7f
+        E 0 90 33 7f
+        E 112 80 33 7f
+        E 0 90 3a 7f
+        E 67 80 3a 7f
+        E 0 90 2a 7f
+        E 55 80 2a 7f
+        E 0 90 3b 7f
+        E 691 80 3b 7f
+        E 0 90 32 7f
+        E 56 80 32 7f
+        E 0 90 4e 7f
+        E 179 80 4e 7f
+        E 55 90 2d 7f
+        E 56 80 2d 7f
+        E 802 90 26 7f
+        E 1327 80 26 7f
+        E 56 90 26 7f
+        E 468 80 26 7f
+        E 55 90 3e 7f
+        E 56 80 3e 7f
+        E 401 90 2c 7f
+        E 290 80 2c 7f
+        E 56 90 26 7f
+        E 56 80 26 7f
+        E 55 90 2d 7f
+        E 179 80 2d 7f
+        E 0 90 32 7f
+        E 691 80 32 7f
+        E 0 90 31 7f
+        E 55 80 31 7f
+        E 524 90 4c 7f
+        E 624 80 4c 7f
+        E 179 90 32 7f
+        E 111 80 32 7f
+        E 123 90 49 7f
+        E 512 80 49 7f
+        E 56 90 45 7f
+        E 870 80 45 7f
+        E 0 90 44 7f
+        E 55 80 44 7f
+        E 112 90 44 7f
+        E 412 80 44 7f
+        E 0 90 43 7f
+        E 346 80 43 7f
+        E 167 90 26 7f
+        E 457 80 26 7f
+        E 234 90 28 7f
+        E 178 80 28 7f
+        E 56 90 34 7f
+        E 56 80 34 7f
+        E 401 90 26 7f
+        E 747 80 26 7f
+        E 0 90 3e 7f
+        E 234 80 3e 7f
+        E 111 90 2d 7f
+        E 123 80 2d 7f
+        E 111 90 36 7f
+        E 1037 80 36 7f
+        E 0 90 49 7f
+        E 55 80 49 7f
+        E 457 90 4c 7f
+        E 346 80 4c 7f
+        E 178 90 49 7f
+        E 346 80 49 7f
+        E 111 90 31 7f
+        E 67 80 31 7f
+        E 346 90 45 7f
+        E 278 80 45 7f
+        E 0 90 44 7f
+        E 468 80 44 7f
+        E 56 90 42 7f
+        E 112 80 42 7f
+        E 0 90 2a 7f
+        E 289 80 2a 7f
+        E 0 90 3d 7f
+        E 346 80 3d 7f
+        E 56 90 32 7f
+        E 122 80 32 7f
+        E 56 90 39 7f
+        E 111 80 39 7f
+        E 56 90 26 7f
+        E 123 80 26 7f
+        E 0 90 39 7f
+        E 1092 80 39 7f
+        E 111 90 26 7f
+        E 457 80 26 7f
+        E 0 90 42 7f
+        E 67 80 42 7f
+        E 1661 90 31 7f
+        E 67 80 31 7f
+        E 0 90 2d 7f
+        E 56 80 2d 7f
+        E 0 90 31 7f
+        E 55 80 31 7f
+        E 0 90 2d 7f
+        E 56 80 2d 7f
+        E 457 90 4c 7f
+        E 345 80 4c 7f
+        E 636 90 49 7f
+        E 178 80 49 7f
+        E 0 90 4a 7f
+        E 56 80 4a 7f
+        E 111 90 4a 7f
+        E 67 80 4a 7f
+        E 0 90 49 7f
+        E 279 80 49 7f
+        E 0 90 4a 7f
+        E 122 80 4a 7f
+        E 0 90 49 7f
+        E 223 80 49 7f
+        E 0 90 3d 7f
+        E 67 80 3d 7f
+        E 0 90 49 7f
+        E 56 80 49 7f
+        E 167 90 47 7f
+        E 524 80 47 7f
+        E 0 90 48 7f
+        E 167 80 48 7f
+        E 0 90 47 7f
+        E 56 80 47 7f
+        E 0 90 46 7f
+        E 67 80 46 7f
+        E 0 90 3b 7f
+        E 167 80 3b 7f
+        E 56 90 2b 7f
+        E 55 80 2b 7f
+        E 0 90 3b 7f
+        E 67 80 3b 7f
+        E 167 90 26 7f
+        E 56 80 26 7f
+        E 123 90 26 7f
+        E 457 80 26 7f
+        E 0 90 39 7f
+        E 55 80 39 7f
+        E 0 90 26 7f
+        E 56 80 26 7f
+        E 0 90 2d 7f
+        E 56 80 2d 7f
+        E 0 90 26 7f
+        E 635 80 26 7f
+        E 56 90 26 7f
+        E 412 80 26 7f
+        E 0 90 42 7f
+        E 112 80 42 7f
+        E 56 90 2d 7f
+        E 178 80 2d 7f
+        E 56 90 39 7f
+        E 167 80 39 7f
+        E 401 90 36 7f
+        E 178 80 36 7f
+        E 0 90 49 7f
+        E 168 80 49 7f
+        E 289 90 2c 7f
+        E 56 80 2c 7f
+        E 346 90 44 7f
+        E 345 80 44 7f
+        E 67 90 44 7f
+        E 167 80 44 7f
+        E 0 90 43 7f
+        E 468 80 43 7f
+        E 624 90 44 7f
+        E 179 80 44 7f
+        E 55 90 45 7f
+        E 402 80 45 7f
+        E 0 90 44 7f
+        E 122 80 44 7f
+        E 0 90 45 7f
+        E 112 80 45 7f
+        E 0 90 2d 7f
+        E 290 80 2d 7f
+        E 222 90 45 7f
+        E 123 80 45 7f
+        E 56 90 45 7f
+        E 457 80 45 7f
+        E 0 90 44 7f
+        E 122 80 44 7f
+        E 0 90 32 7f
+        E 56 80 32 7f
+        E 0 90 26 7f
+        E 56 80 26 7f
+        E 0 90 32 7f
+        E 56 80 32 7f
+        E 111 90 2d 7f
+        E 67 80 2d 7f
+        E 111 90 42 7f
+        E 402 80 42 7f
+        E 0 90 43 7f
+        E 55 80 43 7f
+        E 0 90 42 7f
+        E 234 80 42 7f
+        E 0 90 43 7f
+        E 112 80 43 7f
+        E 0 90 42 7f
+        E 178 80 42 7f
+        E 0 90 43 7f
+        E 167 80 43 7f
+        E 0 90 42 7f
+        E 179 80 42 7f
+        E 0 90 43 7f
+        E 167 80 43 7f
+        E 0 90 42 7f
+        E 234 80 42 7f
+        E 0 90 41 7f
+        E 56 80 41 7f
+        E 0 90 40 7f
+        E 55 80 40 7f
+        E 0 90 3f 7f
+        E 56 80 3f 7f
+        E 0 90 3e 7f
+        E 67 80 3e 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 568 90 28 7f
+        E 123 80 28 7f
+        E 55 90 28 7f
+        E 112 80 28 7f
+        E 0 90 27 7f
+        E 122 80 27 7f
+        E 0 90 28 7f
+        E 112 80 28 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 0 90 28 7f
+        E 55 80 28 7f
+        E 56 90 27 7f
+        E 67 80 27 7f
+        E 0 90 28 7f
+        E 56 80 28 7f
+        E 0 90 29 7f
+        E 55 80 29 7f
+        E 0 90 28 7f
+        E 112 80 28 7f
+        E 67 90 27 7f
+        E 55 80 27 7f
+        E 0 90 28 7f
+        E 290 80 28 7f
+        E 0 90 27 7f
+        E 56 80 27 7f
+        E 0 90 28 7f
+        E 111 80 28 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 123 90 28 7f
+        E 278 80 28 7f
+        E 0 90 27 7f
+        E 67 80 27 7f
+        E 56 90 28 7f
+        E 457 80 28 7f
+        E 234 90 28 7f
+        E 167 80 28 7f
+        E 401 90 28 7f
+        E 67 80 28 7f
+        E 56 90 28 7f
+        E 56 80 28 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 234 90 28 7f
+        E 167 80 28 7f
+        E 925 90 28 7f
+        E 56 80 28 7f
+        E 4090 90 29 7f
+        E 56 80 29 7f
+        E 0 90 2a 7f
+        E 55 80 2a 7f
+        E 290 90 29 7f
+        E 56 80 29 7f
+        E 580 90 29 7f
+        E 55 80 29 7f
+        E 346 90 29 7f
+        E 56 80 29 7f
+        E 523 90 28 7f
+        E 56 80 28 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 0 90 2a 7f
+        E 56 80 2a 7f
+        E 234 90 29 7f
+        E 111 80 29 7f
+        E 524 90 29 7f
+        E 111 80 29 7f
+        E 290 90 29 7f
+        E 112 80 29 7f
+        E 468 90 28 7f
+        E 55 80 28 7f
+        E 0 90 29 7f
+        E 112 80 29 7f
+        E 234 90 29 7f
+        E 56 80 29 7f
+        E 0 90 2a 7f
+        E 55 80 2a 7f
+        E 0 90 29 7f
+        E 56 80 29 7f
+        E 468 90 28 7f
+        E 56 80 28 7f
+        E 0 90 29 7f
+        E 111 80 29 7f
+        E 234 90 29 7f
+        E 56 80 29 7f
+        E 0 90 28 7f
+        E 56 80 28 7f
+        E 234 90 29 7f
+        E 56 80 29 7f
+        E 290 90 29 7f
+        E 55 80 29 7f
+        E 0 90 28 7f
+        E 56 80 28 7f
+        E 234 90 29 7f
+        E 111 80 29 7f
+        E 509 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {0463EA67-5B58-468B-869B-4108C8683C1A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 752
+        VELLANE 128 386 0
+        VELLANE 131 30 30
+        VELLANE 166 30 30
+        VELLANE 130 100 30
+        CFGEDITVIEW 0 0.06615 41 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL -189
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 32 1 0 1 1 1 0.125 -1290 111 -457 620 1 0 0 2 5.33333333 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "03-GT Notation-Recorded MIDI"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25597520 R
+      GUID {6D0B4B26-B410-457C-B247-D022AD71DBE4}
+      RECPASS 2
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {45387551-6325-41E7-9B33-B54E3675CA7C}
+        E 15 90 29 7f
+        E 112 80 29 7f
+        E 290 90 29 7f
+        E 55 80 29 7f
+        E 580 90 29 7f
+        E 111 80 29 7f
+        E 134 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {6F4A8E69-19FE-4FD9-91A2-C48FDFCA2904}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 753
+        VELLANE 128 386 0
+        VELLANE 131 30 30
+        VELLANE 166 30 30
+        VELLANE 130 100 30
+      >
+    >
+  >
+  <TRACK {7F281049-9A1F-429E-8B1A-F3F5DD979630}
+    NAME "Sol Vox Practice Track"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 79 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7F281049-9A1F-429E-8B1A-F3F5DD979630}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 315 284 859 560
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3i: Dexed (Digital Suburban)" Dexed.vst3 0 "" 475117838{ABCDEF019182FAEB4447534244657864} ""
+        DrlRHO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAD7GgAAAQAAAP//EAA=
+        6xoAAAEAAABWQzIhphoAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+IDxkZXhlZFN0YXRlIGN1dG9mZj0iMS4wIiByZXNvPSIwLjAiIGdhaW49
+        IjEuMCIgY3VycmVudFByb2dyYW09IjEiIG1vbm9Nb2RlPSIwIiBlbmdpbmVUeXBlPSIxIiBtYXN0ZXJUdW5lPSIwIiBvcFN3aXRjaD0iMTExMTExIiB0cmFuc3Bvc2Ux
+        MkFzU2NhbGU9IjEiIG1wZUVuYWJsZWQ9IjAiIG1wZVBpdGNoQmVuZFJhbmdlPSIyNCIgd2hlZWxNb2Q9IjAgMCAwIDAiIGZvb3RNb2Q9IjAgMCAwIDAiIGJyZWF0aE1v
+        ZD0iMCAwIDAgMCIgYWZ0ZXJ0b3VjaE1vZD0iMCAwIDAgMCI+PGRleGVkQmxvYiBiYXNlNjQ6c3lzZXg9IjQxMDQudk9ELkkuQi5HLlRLaTB4WC4uLi4uLi4uMy52WC4u
+        ZkIuRXlYdExGLi4uLi4uLi5OLkxGQS56LlB3TGxLaUEuLi4uLi4uZkMuaUEuLk8uVExpd3hYLi4uLi4uLi4zLnZYRC5QRi5FeVh4TEYuLi4uLi4uLk4uTEYuLlhESndM
+        MVhiQS4uLi4uLi5mQy5pSS4uaU0xWGlJaUx4SHlHT0xCLi4uUExYTFVYNEFSUG1FVlp0NEJSTG8uSGlVRVQuREMuLi4uTkhQRUUudlRSSnZ3WGJvRS54Li4uLmZBQVpR
+        Li53bmpCZkhsWGhBUEo4LmpCSGd2UUQudk1PbnZLaXdFVy5meVYuTC5iRExGQS5iQ0hmelFXZG9FLkRBdlhCLi5BWFFQLjJmaUJ1TGxYLkF2SWlBdkNYZ2ZYRERmWGhJ
+        bFgwRGlMeDN2Q2dMQkQuLkFDTEVUVVJrVFFmLkJIZkxsSzFUMFhmTUYuNC4uLi5uQ0FpVXZSaTRoSGFNMVdpQS4uLi4uLnlBZlNHRENWSVVTV2kwRC4uLi4uLi5mYmJy
+        RURDZkVON3owWE1BLi4uLi4uLkxFRU9JLkdYZ0NPY01WUy4uLi4uLi4uaWZ3VEJIbFNmdkJPaVVFLi4uLi4uLmZKLkxGLkdYVVdpTUYuei5QV1E3dkguLi4udy5mUGtF
+        RmNzVUZaeFFsYmlZUkZvTEZSSEF2SS5EdkN2UWZURC52WG1qUUhpY0RQLmJCLi43LmIuUENBLkxGU2k4eFhYQUYubS4uLk8uRy5iSS4uaWNSRmdMMVEuQXZJLkR2QzNQ
+        dlhELnZYbGpBSWlnRFIuYkIuLjcuTi4zREIuTEZTaTh4WFhBRi5tLi4uT2ZDLi5ILi5UODBXN0hpTHhIeUdOVEIuLi4uUFguRVJBSTBTSEFCSGYueFh2RC5GZDhELi52
+        aU0uRHZRTExsRy43MEhIdndYRkEuLnoudkhDdkVET1kuLmVBUkZnTGxRLi4uLi4uLi5hYndYQi5QVXhIZkJpWUQuLm5DLmsudkIuN2pELnJqS1B2dlhGQS4uemYuLkNy
+        QkNPUS4uSjR3RmVMbFEuLi5PLi4uLmljd1hCLmZXQzhFT3hIaUx4SGZDaERCLi5qQUNDZ2xidTBWWGZUQ0hiVWtPWHp4WGlBLi5mLi4uQ1B3LkxvUFRUb2lEakxWVy4u
+        LkguSEEuNnZRVkQudlVzclFLaU1GLi4ueFguTGYuUExsLi5Ua09YM3hYaUEuLmYuLi5Ddi4uR29QLlZvaURqTFZXLi4uSC5IQS5DUFFWREQuVnNyUUtpTUYuLi54WC5M
+        Zi5QTGwuQS4uLi4uZkx4SGlMQ2ZQRi5uLi5Idi5TZ1lXWnpFbGJmLkJXLi4uRGVMMVhpQS4uLlAuLlBNLlRCLmZRLi5RRWFNMVguLi4uLi4uVC4zai4uM0IuT1hCV2lN
+        Ri4uLi4uLi5FLmlJLi4uLi4uZkwxWGlBLi4uLi4ubkguVC5MbEwuamZEZk0xWC5mQS5FLi5OLkhFLmk0Qi5iWFJXaU1GLi4uLi4uLi4uaUVQQWlNMVhpSWlMeEh5Lkti
+        QS5PLlBETExFYXVNMGNyQXhLdXZrU2VZekJpQTFSLmJDLmEuUGIuN0NBLmZoR1lQeFhab0UueS4uLi5Edy5pSS4uOTdrUUxMRlhPQS5MLjNBLlkuLlFELi5KZGpBSWlv
+        a1YuTEMuLi5QWFdMbC5BanlXRnN2WGZzRS5oLmZILmpGLkhJLi5uM1FGakxsVlpBdkwuLi4uSUx3WEIuUE5TQUVVcUxpTHhUUEFiLmlIaWdCRk9JREhHVWxhMWtsY2JN
+        MUVLM3ZYWXdFLk8uLi5EWEUuMFBTLkI0dkJiM1VWWkF2Qy4uLkFWUS5SRi4uVk5MaklpazBRLjcuLi5QZksuZmtLLmZrQ0djeFhZZ0UuTy4uLkQzQy5nSS4uaEExRnBM
+        RkdSQXZDLjMuQXZBLlhENzJYSmIuS2lBVlYuNy4uTlAuYi5MRi4uTDFYaU0xSXhUaUtON1BBLkxGLnpBdlRBY0VIRTBESFVBRUh5bnhIUUwxWGlBZkcuWC4uZk0uS0Iu
+        dkxRSGhFaU0xWC4zQS5RLi5YQkxsLi5uaElUM3dYaU1GLmYuLi4uLkZCaUkuLjBuUklZTDFYaU1sRy5MLi4uTWZPLkxWTVFIeEVpTTFYLjNBLk0uLlBCSEYuaW9oSVQ3
+        d1hpTUYuZi4uLi4uREJpQXZYaU0xVGk4eE14SHkuTUQuLi5URUJMdmpRT0lVWTVBeEpxdjBYWExGSi4udlguLi4uLi5QTi4uZi4uTEZIaWdCLi5MRi4uLi4uLmpDLmlB
+        dkxpTXhYbi4uLmhBLi4uLi4uNC52WC4udlhtTEZKLi52WC4uLi4uLlBOLkxsLi5MVktpZ0IuLkxGLi4uLi4uakMuaUlmRmlNeFhuTDFRLi4uLi4uLi40LnZYQnp2WGlN
+        Rkp4SGlMeDdBQlQ3akdCYkFGRTR6UE9Va1NUVWpUU3N2Q1dmaVNLTUYuLi4uLi4uRy5pVVBJaU0xWDJMMVhpQS4uLi4uLnZBZlcuLnZCT2JRTk5zelguLi4uLi4uRi5M
+        VkFsTDFYaWd5WGlNRi4uLi4uLi4uLmRBLi5LN3ZFMTN6UmlBLi4uLi4udkF2WEVYeFhpTVZNaU0xWC4uLi4uLi5OLjNFLi5MRkdpTWxMeEhpTEQ3ZksuM1BLMGZBVW5V
+        bWFqVWxiZi54TC5UVUNxSHlYLi5mQy4uLi5OQXZUSC4uQ1dVeEowTEYuLjMuLi4uLkQuTEZBLmp3VWhyaE5pQS4uTi4uLi4uRi5pUS4uLmIwSnE3eFguLmZDLi4uLjMu
+        dldELi4uWXd5SkFNRi4uMy4uLi4uWC5IRUMuN1RFN3J4WFBBLi5OLi4uLmZDLmlRLi4uLi4uLkhpTHhIU0VPbkFFaS5QRExUelhuOFZRaWcxYWZMU01HSEJLaVFrRy5E
+        aS4uTC5URFRDRC5Id0JvWHhYNnZBLnguLklDLkRCYkkuLlZmUElxTDFVcy5QTVEudi5JZy5RSi4uSFFyd0ppb0RQLm5CLi4uLkpFLmwuLkhnRFp2d1hHUUMudFB2SENI
+        Z0FSSS4uN1hQRWtMbFcwLmZYLi52Q1hrdlhCLnZYaU0xWHhIaUx4ZnZBcC4uLi5EQ0NzRGpTQXd6U0dBUkxzUFJGdzd3WERBLi4uLi4uLmZDQjkueFJrWGdFeExsRU8u
+        Li4uLi4ubjh2WEouLklqWEFLaW9SSS4uLi4uLi5WQXZCTi5uQkRnanhYZi4uLi4uUEEuLnkuaW8uLllmZ0VhTGxQLi4uLi4uLi5YQS5JZC52SFJYd0hpQTBKLi4uLi4u
+        Li5DTGxCLkwxWGlNbEx4SGlMRHZ2SS5YLi5YTEFUdGp6UEVBaEwwM1JMaXdDSndMMVcuLi4uLi4uLjMuZlNHM3hYN0xSTGk4RS4uLi4uLi4uSi5iMEF0TEZPZkR5WGVB
+        Li4uLi4uLmZDLlNjLkRaY3YuR0xsVy4uLi4uLi4uNi4uTkZEeVh3WEJHaTRFLi4uLi4uLnZOLi5rLitNMUYwcnhYYUEuLi4uLi4uZkMuaUkuLmlvU0tYSENMYklpLkhM
+        Qi4uLlBMWFhEU0VnVVJmLkJIZlB5WFVNbEtNd2tYLmJSTVQudk8uMy5BLkxsVlZiQ1RjVUUudkxGREI3Qy5KSS4uaW9oRUZNVlg3LnZJYnNUQisuZlJCLnZYU1l3UGl3
+        RVQuSFJCLi52Ty5qay4uTEZRbUwxWGlNVlguLlBQLjdDLlJJLi5TY2hIOC4xWGNBLi4uLi4uKy52WEIuZldDOEVPeEhpTHhEd0F5YkIuLmpDRkFJRVRmSGlNdi5DSGZM
+        bEsudndYY2NFLjEuLi4uREMuR1EuLmk0Qi5iTFZXV0FmTS4uLi40LlBTQi52WHQuLkdpMDBVLlhDLi4uUEpEUGsuLjNSSFRMeFhiUUUuLi4uLi5ILkNpRS4uaU0xWFlM
+        MVhpQS5KVGIuLnZBUFcuLmZMaU1sR2lNMVguLi4uLi4uYi5MRkEuTDFYaU1sTHhIaUxBWGZJZy4uLjRmUVB4QTJKQlVtZDVJMGJOOGtRY0xGWEtBdk0uckQuNEh2WEQu
+        UEZZdlBPaU0xWC5MQy4uLlBOLlRrLi5EeFdGMHdYaU1GLnYuZkcuREcuWlEuLnhqQUNGTWxWZ0F2TC4uLi40UHdYQkQuR2VZVEdpQTFTLi5DLkNBUC5EbkVBLkhSRkxE
+        eFhpa0MueS4uLi5qQ0JpSS4uSlRmQUZIaUx4SGlFc1RoSmxQQkZYUGtUV0FCSGYuQkhmLnhUTW5TRGlva1YuLlIuLi5QSC5Ea0guSEVDZS53WFhnRS5rRC4uLkRCLjYz
+        Li5ZTUZOakwxWGlBLi4uSC4uby52VC4uUERlWFFIaU0xWC4uLi5HLlBKLkxsLi4zakNLandYUmMwS0wuLi4uREUuQUlCLlEuaEhkTDFYaUEuLi4uLi5RQXZYQi52WGlN
+        bFB5SGlMeGJQQ2lNZkcuSEFGTWtqVElRelNSQVJMZjNFS28zeFgrWEMuaUhUQU5qaS5PQUEuZUVSTGlMMUwxLlBKLlAuQzZIZ1RGLmZXVy5UTWlNaU0uYkRMR1BmTlJi
+        REEuSGpFcGJ4WHlUQy5tYnhBTFRmQ2lJUC5pVXdYYkxGLi4udktkbi5CRklBU0JEdlhVTEZHaUEuLi5uZkdKZmZhVkxsLkF6elYzdnlMeEhpTEd6LlAuLnZYeWZBUUVZ
+        VVJMQUJVQU16UktuUUFiTDFXLi4uLi4uLi42LnZSRUxoQlkuZkppNEUuLi4uLi4uLk4uWERBaWtQRi5ueFhkQS4uLi4uLi5mQy5PTWZTTC5RREdMbFcuLi4uLi4uLjY3
+        bVUuLlRELmYuR2lFbFUuLi4uLi52Ti4uMC4wbndCWmJ3WC4uLi4uLi4uLmZDLmlBUFFSQS4uTkhDTXZIQ0RGTEIuLi52Ti5IVVVNSURTRUFCSGZEeVhQMy5EeEh4WC5i
+        Qi4uLi5ILlBESC5idkNRUHhYVW9DLm0uLi4uLkIuaUFBLkZ6dkJYWFNVaUF2SS4uLi4zLnZWRC4uRk9Ed0lpVUVILmJCLi4uLk4uTEZBLmYuQ09UQU1VTUYubS4uLi5m
+        RC5Wdy4uZ1BnRm1MVlUwLnZJLi4uLkhBdlhGLnZYaU0xWHhIaUx4VC5DTHZQQS5mQkNDRXpUQ0VEUUVBaEx3TDFYaU0xWGlNRi5DTUYuLi4yLmljLkRpTTFYaU0xWGlB
+        dlBpTUYuLkxQVy4ueFhpTUZRaU0xWC5yeFhpQS5CQ0wxQUxMMVhpTTFYaU1GLnFMMVguZncuaVEuSGlNMVhpTTFYaUEuRS5MRi5QTHZYR2Z2VGlNMVhpTTFYLlBBLmlB
+        Li5DbkVDTU0xWGlNbEx4SGlMZWouLi4uLi55ZndQclBES0VJRktGQUJIWGZrS2t2eVguLi4uLi4uLjNMdlhSYi5HWEFTSTdMRi4uLi4uLi4uTkNMbENJLkJWdFRCT2lB
+        Li4uLi4uLmZ5LmlvdkNqamtLa3Z5WC4uLi4uLi4uM0x2WEouUEtYNFJJN0xGLi4uLi4uLi5OQ0xGQUtMRlZ1WHhYaUEuLi4uLi4uZnkuaVEuLmlNMVhpSWlMeEh5R0hM
+        Ri4uLnZNTFBVY3RRMVR6RUZjaTRrSGRIUUlpY0RGLlhCLkF3dkRQamlGSGJnR1ozeFhRVUMueFhELk9IVkJyUC4uZFh4THNMRlJiLnZKOFB3LlpEUU5CLlBLV1B4Smlz
+        VE0uLi4uLi52TEZMbC4uTDFGN25RUmlBLi4uN1FCQ2ZRQ2lJLi5pVVFJcEwxWGFBLi4uLi4uamt2WEIudlhpTTFYeEhpTHhYdkNYalNCWURDQ3NiMFNCSURTRUFSTHNq
+        Q0hNNHdYaW9DLkouLi5EZkNCaUEuLkszUUZiTDFYLi5mQi4uLkEzZi5XSi5mRkdRd0lpTUYuLi4uLi5QLk5IekVBLm52WFRqeFhpQS4uLi4uLi5mQ0FjQVAuUkxGRWlN
+        MVguLi4uLi4uLjNmZlZELi5HaVF3SGlNVkQuLi4uLi4uTkRMRi4uTGxYS3dpTHhIaUxQTHZIWUEuLkhmZ1FJd0RVRUlVS1NjRVRUbi5HWDMwVC5BZkoxLlAuM3YuUEYu
+        dkdIYkFHaWNrUC52UkFOTC5OSHZrLi5uRExMUFJUaVFELnVmUEMuZkNFaUkuLlhuUkNKTEZXQkFQS0l2Li4zLlBPRC5mR3RmLkNpTTFQLnpCQkxELk4uUGsuLnZqRER2
+        QlVpWUQucm5QQy4uR0VpSS4uZE16VzdIaUx4SGkuTmZDUS43eUVYTFVQSEVqVEFBQkhmLnhYaVFRTmlNbEIuLi4uLi4uTi5yaUhpY3ZYaWt3WGlNRi4uLi4uLmZDLnNY
+        UU1pTDFYY0wxWGlBLi4uLi4uMy52WEpueEVpTVZGaU0xWC4uLi4uLi5OLkxsQ0dzZ0Vpb1JVaU1GLi4uLi4uZkMuUklCLm5MMVhqTDFYaUEuLi4uLi5QQXZYVFhQUGlN
+        MVh4SGlMeDNmQWkuLi4uREMuRXdUUUNRa1RPNERId0xGLi4udlhpTUYuTy4uLkRiLi5MSS4uS294UWhMMVhpQXZDLi4uQXlBdlhCLnZYSDhRRC5YRC4uNy4uLlB2Ty5M
+        RkQuTDFYakx4WGlBLi5PLi4uRHJDLmlJLi5pQS4uLkwxWGlBdkMuLi5BbUFQVS4uLk1wYmpIaU0xWC43Li4uUHZYLkxsLi5MMVhpTWxMeEhpTFc3dkZuLkEuZmZnUEE0
+        elJTd0JIVDRCSFhMMVhZendGZUxGLi4uLi52QS5WLi52WGlNbEZGVUNNaUEuLi4uLkIuWFQuLnp2WGljUVNNOEQuLi4uLi5mQy5Ndy4uNUwxWGtMMVhpQS4uLi4uLjMu
+        dlhCLnZYaU0xRU0welNpQS4uLi4uTi5URENYandYaVV4WGlNRi4uLi4uLmZBLlZRLkZpTTFYaUlpTHhIQ0JOanYuRy4uRExMRWF1YzJMREFCVGdRVk5mempHaU1sTi5u
+        Li4uUC5MRExWLllyZkdZdndYaUEuLkouLi5EZkNBYmcuLlpiREVtTDFYLi4uLi4uLkFIUVBXeVQuQkpQUUppTUYuLi4uLi4uLk5FemtDLkh3WFRQeFhpQS4uLi4uLi4u
+        VEFaUS4uYkxGRWlMMVhRLi4uLi4uLjNUdlhMLmZYaHNET3hIaUx4LncuaUxsQkguQ0NMWXpTZkwwVUVVRFRmZjA4IiBiYXNlNjQ6cHJvZ3JhbT0iMTYxLmlNMVhpTTFY
+        aUEuLi4uLi4uLi4uLi4uLkEudkFpTTFYaU0xWGlBLi4uLi4uLi4uLi4uLi5BLnZBaU0xWGlNMVhpQS4uLi4uLi4uLi4uLi4uQS52QWlNMVhpTTFYaUEuLi4uLi4uLi4u
+        Li4uLkEudkFpTTFYaU0xWGlBLi4uLi4uLi4uLi4uLi5BLnZBaU0xWGlNMVhpQS4uLi4uLi4uLi4uTEYuQS52QWlNMVhpSWlMeEhDLi5ELi4uLlBFLlB2LlhqalNJUUVI
+        VjhUUkNVek8uLi4uLi4uIi8+PGRleGVkVHVuaW5nPjxzY2w+ISAyNCBlcXVhbCBkaXZpc2lvbnMgb2YgMl8xLnNjbAohIENyZWF0ZWQgdXNpbmcgU2NhbGUgV29ya3No
+        b3AgMS40LjIKIQohIGh0dHBzOi8vc2V2aXNoLmNvbS9zY2FsZXdvcmtzaG9wLz9uYW1lPTI0JTIwZXF1YWwlMjBkaXZpc2lvbnMlMjBvZiUyMDIlMkYxJmFtcDtkYXRh
+        PTUwLiUwQTEwMC4lMEExNTAuJTBBMjAwLiUwQTI1MC4lMEEzMDAuJTBBMzUwLiUwQTQwMC4lMEE0NTAuJTBBNTAwLiUwQTU1MC4lMEE2MDAuJTBBNjUwLiUwQTcwMC4l
+        MEE3NTAuJTBBODAwLiUwQTg1MC4lMEE5MDAuJTBBOTUwLiUwQTEwMDAuJTBBMTA1MC4lMEExMTAwLiUwQTExNTAuJTBBMTIwMC4mYW1wO2ZyZXE9NDQwJmFtcDttaWRp
+        PTY5JmFtcDt2ZXJ0PTUmYW1wO2hvcml6PTEmYW1wO2NvbG9ycz13aGl0ZSUyMGJsYWNrJTIwd2hpdGUlMjB3aGl0ZSUyMGJsYWNrJTIwd2hpdGUlMjBibGFjayUyMHdo
+        aXRlJTIwd2hpdGUlMjBibGFjayUyMHdoaXRlJTIwYmxhY2smYW1wO3dhdmVmb3JtPXNlbWlzaW5lJmFtcDthbXBlbnY9b3JnYW4KIQoyNCBlcXVhbCBkaXZpc2lvbnMg
+        b2YgMi8xCiAyNAohCiA1MC4KIDEwMC4KIDE1MC4KIDIwMC4KIDI1MC4KIDMwMC4KIDM1MC4KIDQwMC4KIDQ1MC4KIDUwMC4KIDU1MC4KIDYwMC4KIDY1MC4KIDcwMC4K
+        IDc1MC4KIDgwMC4KIDg1MC4KIDkwMC4KIDk1MC4KIDEwMDAuCiAxMDUwLgogMTEwMC4KIDExNTAuCiAxMjAwLgo8L3NjbD48a2JtPjwva2JtPjwvZGV4ZWRUdW5pbmc+
+        PG1pZGlDQy8+PC9kZXhlZFN0YXRlPgAAAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQABAUJ5cGFzcwABAQMAHQAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAAAAAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3296C0CD-A9E9-48A0-BA90-0C2C29BE2F77}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EC59B4D9-E692-4486-910E-1C2986042DD2}
+      WAK 0 0
+    >
+  >
+  <TRACK {FCF69B79-A02C-4911-A35E-E2B0FF04F632}
+    NAME "Vox Notation"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 4 0 0 0 0
+    VU 2
+    TRACKHEIGHT 24 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FCF69B79-A02C-4911-A35E-E2B0FF04F632}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1040 50 859 560
+      SHOW 0
+      LASTSEL 6
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {133292C8-8F8F-4CC8-AC90-D031E77F2C8D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C906DBE9-933C-45FF-8DBD-F816229F59D3}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {47903417-39CE-4C7B-BC5A-9296D9FD05E2}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7BF610CA-FC71-4F4B-8710-2A184113737F}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {7F29C588-A4EA-4284-A362-B2B9BA967E89}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABEAAAAAAAAAAAAEAA=
+        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D8C9CEED-0F9D-47A1-895F-7AF7F7787BC6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {89CFE15B-CCC9-4CF0-8743-BCD4E2D0DE80}
+      WAK 0 0
+    >
+    <FXCHAIN_REC
+      WNDRECT -827 150 716 200
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAEAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {89D5E009-B6A6-49F0-9421-DCC3B3760608}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        -60 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {62AD1DA7-0C0E-474A-BBE9-ECEF78F435BA}
+      WAK 0 0
+    >
+  >
+  <TRACK {20071049-C97B-40BC-9BEE-B9C12D1661F6}
+    NAME "E Drums"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {20071049-C97B-40BC-9BEE-B9C12D1661F6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7E1A7B5A-3437-42CC-9529-3295C33F3609}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1BBB5E90-DE41-4AF5-B9A7-67B2359B3B54}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4AB376C2-B375-4F54-8F54-B5B38509A396}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E41114BC-D32C-4D46-AF7B-7FD128BB717E}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {FBE67E4B-9A80-4626-9249-40897A39BB05}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C1BA533E-EADC-4062-AD27-6F8BAF35AA9D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {3A0BC9E9-EFF6-4DBA-B8FB-CCF1588FC9B0}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {DDB87449-5CAD-47CC-B17C-70B7227378D8}
+      IID 41
+      NAME "E Drums.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55882BAB-E8C0-4DD4-B932-706186F7896E}
+      <SOURCE MP3
+        FILE "New folder\E Drums.mp3" 1
+      >
+    >
+  >
+  <TRACK {0EE05048-55D5-4684-96B9-58CA7EBF5531}
+    NAME "GT Rus"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0EE05048-55D5-4684-96B9-58CA7EBF5531}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ACD94A7D-4EE4-42F8-9EA3-F699F133FA13}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5DA220CE-A2BD-430E-878E-A41769B05980}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EC830254-DD22-469D-B11A-46BFF98CB620}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {682DA579-8DBB-472B-AA8F-08427EE2C0F6}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {E4177D48-1F3A-490A-91E1-D73FF8513213}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {12A138DF-6C6C-457D-9064-037311B25670}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {0F3AFCB4-ACBB-4D13-83CF-80FF6847EE62}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D63566F2-06B6-4545-B6AB-2372B1D6652A}
+      IID 42
+      NAME "GT Rus.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25DE86FE-01E5-4A31-96D5-3D1710F1ABC9}
+      <SOURCE MP3
+        FILE "New folder\GT Rus.mp3" 1
+      >
+    >
+  >
+  <TRACK {588F7B48-FEC7-4CD9-BCE6-BA14B5697F5B}
+    NAME Kick
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {588F7B48-FEC7-4CD9-BCE6-BA14B5697F5B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F6622A55-906A-4191-BCA7-3FFD4E14A949}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {59853831-07B1-41CE-9CBD-BB535280DB7C}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AE0F3724-4AF0-4F11-919D-6E480A74E9CB}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {59A6A169-B547-4246-BEF0-2D56AD50B16F}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {0E04F9B1-3269-4564-9C4E-10F2505D11F5}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F8EEDF08-9317-4DEA-9328-CA23B3EF6222}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {2AA2FA8B-5D30-4046-BFE7-FEEAE96D04A3}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {207EB706-04E5-4346-AB9D-33F1170C046A}
+      IID 43
+      NAME Kick.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46AFF42E-9D5D-40AC-925E-8E03B1E2C1FE}
+      <SOURCE MP3
+        FILE "New folder\Kick.mp3" 1
+      >
+    >
+  >
+  <TRACK {3633ABCF-F0CA-4ECB-9360-88FC37062D95}
+    NAME "Oma Instruments"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3633ABCF-F0CA-4ECB-9360-88FC37062D95}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D45FB5BE-0ED1-402E-9282-8996ABB5F749}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1E9A48E8-BFE2-49E6-A91E-258FFEAA37BC}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E9E9F355-1CF4-4D85-B667-3454567F351B}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {966B7013-93D0-465E-BDC8-9BAEBD74CA59}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {E3AC1791-AB32-41A8-99D8-D538818AAE63}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {54D44BEE-4FE6-4EF2-9369-36A36408C32F}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {9F8B53B1-CEA9-4ED5-A672-441BDCC4CDE4}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {854445DD-1FBC-40C2-B94C-140C02E75503}
+      IID 44
+      NAME "Oma Instruments.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B2978DC-3F20-4BFD-AAAC-2F0BD4D593F4}
+      <SOURCE MP3
+        FILE "New folder\Oma Instruments.mp3" 1
+      >
+    >
+  >
+  <TRACK {5F4BEDCB-E56F-4D2C-B6FF-4202D03C978C}
+    NAME "Oma Vox"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5F4BEDCB-E56F-4D2C-B6FF-4202D03C978C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C923013B-BF7A-4D13-9CFA-BC091F1A84A3}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A6E9DFC1-3C98-4EF5-8D41-0420F79A2A7D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B1E332B3-8B57-4CA7-8811-AA2D771E048F}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F5559C1E-E599-4294-BE2E-26909B24760E}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {127114FF-A165-4932-9DCA-E8FC64B9D6B0}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9705A805-6F10-49EE-99AC-EC7E31002EC9}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {62D633EC-3AC2-4774-9781-F041363C57F5}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8E30DB7C-9FCE-480D-925A-24EB68799729}
+      IID 45
+      NAME "Oma Vox.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81711BD3-19A4-4A32-8EC1-CECF9EEABF07}
+      <SOURCE MP3
+        FILE "New folder\Oma Vox.mp3" 1
+      >
+    >
+  >
+  <TRACK {6E47C4D7-3518-4FE2-BF08-0FBE57023CB1}
+    NAME "Rus Vox"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6E47C4D7-3518-4FE2-BF08-0FBE57023CB1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1256 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B7771A2F-C860-46AB-8840-AB95C95B10AE}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E2D034BB-4C3B-4A9B-B5E2-C559FA021CE5}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B3B2E4C2-2E5A-48E8-B84F-0DB157D15C9D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D347B82C-0238-4DF6-A69B-C6DD51CAC63A}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {76F2A1F5-5CC2-4429-9387-490E4F5A7651}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1E17F2F2-48F1-45ED-976B-7C807763BB0E}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {1D9B9DF7-F613-4AB3-9E7C-F34B27004379}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {E58107E3-1D89-41A7-816F-DBF2CC567055}
+      IID 46
+      NAME "Rus Vox.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D642EA1-5955-4602-B09D-8682FE2AC2D5}
+      <SOURCE MP3
+        FILE "New folder\Rus Vox.mp3" 1
+      >
+    >
+  >
+  <TRACK {32868ED9-51B7-4536-8226-44256B1439A2}
+    NAME Snare
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {32868ED9-51B7-4536-8226-44256B1439A2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {781E45BD-F294-4F13-ABA1-78E017CB3EED}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8092233C-A85F-4C45-BB56-40D46DCBF214}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FC6FF2DC-687F-4054-9209-693D5598FB72}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C919EFB8-DDFB-4AAE-A41E-3242FDCFB002}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {4E77CD41-1623-42B0-A5FE-2B7383C594D9}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8E81F19A-2E4B-46E7-A475-5BCB69EE28D7}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {B07B9E6B-1CDA-4568-A395-DC8FC86BA509}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {56C7AA6A-30A8-4DED-A2CA-DCA14CD26D39}
+      IID 47
+      NAME Snare.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F63A8EFF-CB65-4EB3-9FD0-979C9B55908C}
+      <SOURCE MP3
+        FILE "New folder\Snare.mp3" 1
+      >
+    >
+  >
+  <TRACK {A2FCBE26-D4C8-4997-8E87-314455730D82}
+    NAME "Bass Mic"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A2FCBE26-D4C8-4997-8E87-314455730D82}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {23ECA2BB-330F-4BC0-A9EB-0E5A9229A339}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {620B5839-A400-41F6-96EA-FA6D44A0B834}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B1035B01-9E4F-49FA-A27D-FB48A0F50E26}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ED13A262-F552-47C1-A8DA-EF2D30111409}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {BA5D4CF2-71FF-41B6-B1D1-31FEB39AFB2A}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3271DEB7-7C40-49F1-BC62-B7B13C4CCEE1}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {9CEEAB3E-E2F9-46C1-A39C-70AE15487AEE}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {61F96D5F-3F49-4CCE-9808-E48673A0EF93}
+      IID 48
+      NAME "Bass Mic.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EBF10FA-3AAF-461B-B7A7-99A540DBF095}
+      <SOURCE MP3
+        FILE "New folder\Bass Mic.mp3" 1
+      >
+    >
+  >
+  <TRACK {0F0F6BA4-ACB2-494A-A73B-0B0E4FE99F63}
+    NAME "Chuck Keys"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0F0F6BA4-ACB2-494A-A73B-0B0E4FE99F63}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CD198815-B4A0-445D-90DB-1B02E022C82B}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B796859A-C727-4FB0-BDB8-6E0F3BC72F80}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4685F4BD-06B5-49FC-8CB8-A441A3EF350A}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9812FE32-16E5-4018-8917-6653A60BD798}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {CCDB2D74-0240-4686-91D4-F0B8D0B152C7}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C9569C8B-E63B-4E4B-BD5C-8A4716AF5CDC}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {1F881714-E398-4CA1-8F62-6D84CE4105B4}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {A4874391-E453-407E-8605-F49887DAFDEB}
+      IID 49
+      NAME "Chuck Keys.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73F357C3-D4A8-4CAF-BF06-61B349B38437}
+      <SOURCE MP3
+        FILE "New folder\Chuck Keys.mp3" 1
+      >
+    >
+  >
+  <TRACK {174271A4-78CB-44AF-B567-DFBE1A6D95AB}
+    NAME "Chuck Vox"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {174271A4-78CB-44AF-B567-DFBE1A6D95AB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {87480FAB-2EF4-4650-8810-C37D0970DDE0}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume_pan_sample_accurate_auto ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2685D291-99C8-489B-8318-013F8F9FA132}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4FC3E88D-3C76-48FE-B19C-5B7C47F7283D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
+        OAAAAAQAAAAAAAAAAABpQAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAAAAAAAQI9AAAAAAAAA8D8AAAAAAADwPwAAAAAAAABA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAARAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAAAA8AAACWAAAABQAAABEAAAAAAAAAAHDXQAAAAAAAAPA/
+        AAAAAAAA8D8AAAAAAAAAQAAAAAAAAAAADwAAAJYAAAAFAAAAEQAAAAEAAAABAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FB23616B-2B23-44C3-A207-0DE6A7259A60}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAAAAA
+        776t3g3wrd759LA+AACAP/kupTsAAAA/eelGP5jdEz2lSso+hR4ZPA==
+        AGluc2VydCAtIE1peEFsaXZlAAAAAAA=
+      >
+      PRESETNAME "insert - MixAlive"
+      FLOATPOS 0 0 0 0
+      FXID {2816B446-EA5E-4049-93EE-A761B844DE2A}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAgD8AAAAAAACAP19p+DwAAAAAnNEHMwAAgD8AAAAAAACAPwAAgD8AAIA/AAAAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {736398DC-432E-473E-A0DD-14D0D217CA30}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: Boss DS-1 (x86) (SimulAnalog) (mono)" "Boss DS-1.dll" 0 "" 1648644921<56535462445339626F73736473317838> ""
+        OVNEYu9e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAUAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAEY/AAAAPgAAUD8=
+        SW5pdCAxAEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {1C5161EF-680A-474C-A29A-7EA2DF82BACC}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 304
+      SNAPOFFS 0
+      LENGTH 340
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {F802B2F0-A0CC-46AF-B789-DB370CD16247}
+      IID 50
+      NAME "Chuck Vox.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {592C229D-0083-427C-92E0-DAA9A965B3B0}
+      <SOURCE MP3
+        FILE "New folder\Chuck Vox.mp3" 1
+      >
+    >
+  >
+>
